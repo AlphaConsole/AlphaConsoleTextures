@@ -35,6 +35,10 @@
         {
           "name": "MiniBalls_D",
           "image": "ThinkBlastDark.png"
+        },
+        {
+          "name": "MiniBalls_N",
+          "image": "thinkblastntest.png"
         }
       ]
     }
