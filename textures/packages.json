@@ -19,7 +19,7 @@
 			"name": "Goal Explosions",
 			"folder": "AC/GoalExplosions",
 			"author": "Carsillas",
-			"description": "Various goal explosions.<br><br>Includes: <ul><li>Banana Dance</li> <li>Rizzo</li> <li>Think Blast</li></ul>"
+			"description": "A pack of goal explosions.<br>Includes 3 styles: Banana Dance, Rizzo, and Think Blast."
 		},
 		{
 			"id": 3,
@@ -74,7 +74,8 @@
 			"id": 10,
 			"name": "Color Fade Decal",
 			"folder": "HurricaneModding/DragonLord",
-			"author": "HurricaneModding"
+			"author": "HurricaneModding",
+			"description": "A clean, gradient decal. Can be used on any car."
 		},
 		{
 			"id": 11,
@@ -87,13 +88,15 @@
 			"id": 12,
 			"name": "Goal Explosions",
 			"folder": "HurricaneModding/GoalExplosions",
-			"author": "HurricaneModding"
+			"author": "HurricaneModding",
+			"description": "A pack of goal explosions.<br>Includes 5 styles: Fire Golem, Thinking, PogChamp, Minecraft Grass, and Minecraft Diamond Ore."
 		},
 		{
 			"id": 13,
 			"name": "Wheel Pack",
 			"folder": "HurricaneModding/Loopers",
-			"author": "HurricaneModding"
+			"author": "HurricaneModding",
+			"description": "A pack of custom wheel mods.<br>Includes 4 styles: Firework, Flower, Star, and Trinity."
 		},
 		{
 			"id": 14,
@@ -106,25 +109,29 @@
 			"id": 15,
 			"name": "KernelPad Flags",
 			"folder": "KernalPad/Flags",
-			"author": "KernelPad"
+			"author": "KernelPad",
+			"description": "A pack of various team flags. Includes 14 different styles."
 		},
 		{
 			"id": 16,
 			"name": "Goodsmile Racing",
 			"folder": "KernalPad/GoodsmileRacingDecals",
-			"author": "KernelPad"
+			"author": "KernelPad",
+			"description": "A Goodsmile Racing branded decal for the Octane."
 		},
 		{
 			"id": 17,
 			"name": "Hoonicorn",
 			"folder": "KernalPad/HoonicornDecals",
-			"author": "KernelPad"
+			"author": "KernelPad",
+			"description": "A Hoonicorn branded decal for the Ice Charger."
 		},
 		{
 			"id": 18,
 			"name": "Hyper Beast",
 			"folder": "KernalPad/HyperBeastDecals",
-			"author": "KernelPad"
+			"author": "KernelPad",
+			"description": "A Hyper Beast styled decal for the Octane."
 		}
 	]
 }
