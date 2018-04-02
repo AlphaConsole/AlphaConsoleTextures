@@ -5,14 +5,14 @@
 			"name": "AlphaConsole Crown",
 			"folder": "AC/Crown",
 			"author": "Carsillas",
-			"description": "Wheel mod that replaces Looper wheels with the AlphaConsole Crown logo."
+			"description": "An AlphaConsole Crown logo wheel mod."
 		},
 		{
 			"id": 1,
 			"name": "Discord Wheels",
 			"folder": "AC/Discord",
 			"author": "Veer",
-			"description": "Wheel mod that replaces Looper wheels with the Discord logo.\nIncludes a static and an animated variant."
+			"description": "A Discord logo wheel mod.<br>Includes a static and an animated variant."
 		},
 		{
 			"id": 2,
@@ -33,37 +33,42 @@
 			"name": "AlphaConsole Snowflake",
 			"folder": "AC/Snowflake",
 			"author": "Veer",
-			"description": "Wheel mod that replaces Looper wheels with the AlphaConsole Snowflake logo."
+			"description": "An animated AlphaConsole Snowflake logo wheel mod."
 		},
 		{
 			"id": 5,
 			"name": "AlphaConsole Terminal",
 			"folder": "AC/Terminal",
-			"author": "BakedPVP"
+			"author": "BakedPVP",
+			"description": "An animated AlphaConsole Terminal logo wheel mod."
 		},
 		{
 			"id": 6,
 			"name": "Antennas",
 			"folder": "Famiy/Antennas",
-			"author": "Famiy"
+			"author": "Famiy",
+			"description": "A pennant that features Psyonix branding."
 		},
 		{
 			"id": 7,
 			"name": "Balls",
 			"folder": "Famiy/Balls",
-			"author": "Famiy"
+			"author": "Famiy",
+			"description": "A pack of 11 styles of ball textures.<br>Includes various teams, RLCS, and Psyonix branding."
 		},
 		{
 			"id": 8,
 			"name": "Alpha Caps",
 			"folder": "HurricaneModding/AlphaCaps",
-			"author": "HurricaneModding"
+			"author": "HurricaneModding",
+			"description": "A pack of painted Alpha Caps. Includes 7 colors."
 		},
 		{
 			"id": 9,
 			"name": "Boost Pack",
 			"folder": "HurricaneModding/Boosts",
-			"author": "HurricaneModding"
+			"author": "HurricaneModding",
+			"description": "<div style='width: 100%; height: 0px; position: relative; padding-bottom: 56.167%;'><iframe src='https://streamable.com/s/2h63e/uiezsl' frameborder='0' width='100%' height='100%' allowfullscreen style='width: 100%; height: 100%; position: absolute;'></iframe></div>"
 		},
 		{
 			"id": 10,
@@ -94,7 +99,8 @@
 			"id": 14,
 			"name": "Decal Pack",
 			"folder": "HurricaneModding/Spectre",
-			"author": "HurricaneModding"
+			"author": "HurricaneModding",
+			"description": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.333%;'><iframe src='https://streamable.com/s/vikqs/ukiwio' frameborder='0' width='100%' height='100%' allowfullscreen style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
 		},
 		{
 			"id": 15,
