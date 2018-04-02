@@ -1,6 +1,7 @@
 {
   "name": "AlphaConsole Crown",
   "author": "Carsillas",
+  "description": "Wheel mod that replaces Looper wheels with the AlphaConsole Crown logo.",
   "items": [
     {
       "id": 0,

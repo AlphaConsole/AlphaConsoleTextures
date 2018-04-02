@@ -1,6 +1,7 @@
 {
   "name": "Discord Wheels",
   "author": "Veer",
+  "description": "Wheel mod that replaces Looper wheels with the Discord logo.\nIncludes a static and an animated variant.",
   "items": [
     {
       "id": 0,

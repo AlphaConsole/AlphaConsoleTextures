@@ -1,6 +1,7 @@
 {
   "name": "Goal Explosions",
   "author": "Carsillas",
+  "description": "Various goal explosions.<br><br>Includes: <ul><li>Banana Dance</li> <li>Rizzo</li> <li>Think Blast</li></ul>",
   "items": [
     {
       "id": 0,

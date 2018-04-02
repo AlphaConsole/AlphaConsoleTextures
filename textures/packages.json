@@ -4,19 +4,22 @@
 			"id": 0,
 			"name": "AlphaConsole Crown",
 			"folder": "AC/Crown",
-			"author": "Carsillas"
+			"author": "Carsillas",
+			"description": "Wheel mod that replaces Looper wheels with the AlphaConsole Crown logo."
 		},
 		{
 			"id": 1,
 			"name": "Discord Wheels",
 			"folder": "AC/Discord",
-			"author": "Veer"
+			"author": "Veer",
+			"description": "Wheel mod that replaces Looper wheels with the Discord logo.\nIncludes a static and an animated variant."
 		},
 		{
 			"id": 2,
 			"name": "Goal Explosions",
 			"folder": "AC/GoalExplosions",
-			"author": "Carsillas"
+			"author": "Carsillas",
+			"description": "Various goal explosions.<br><br>Includes: <ul><li>Banana Dance</li> <li>Rizzo</li> <li>Think Blast</li></ul>"
 		},
 		{
 			"id": 3,
@@ -38,13 +41,13 @@
 		},
 		{
 			"id": 6,
-			"name": "Famiy Antennas",
+			"name": "Antennas",
 			"folder": "Famiy/Antennas",
 			"author": "Famiy"
 		},
 		{
 			"id": 7,
-			"name": "Famiy Balls",
+			"name": "Balls",
 			"folder": "Famiy/Balls",
 			"author": "Famiy"
 		},
@@ -56,13 +59,13 @@
 		},
 		{
 			"id": 9,
-			"name": "Hurricane Boosts",
+			"name": "Boost Pack",
 			"folder": "HurricaneModding/Boosts",
 			"author": "HurricaneModding"
 		},
 		{
 			"id": 10,
-			"name": "Dragon Lord Decals",
+			"name": "Color Fade Decal",
 			"folder": "HurricaneModding/DragonLord",
 			"author": "HurricaneModding"
 		},
@@ -74,13 +77,13 @@
 		},
 		{
 			"id": 12,
-			"name": "Looper Wheels",
+			"name": "Wheel Pack",
 			"folder": "HurricaneModding/Loopers",
 			"author": "HurricaneModding"
 		},
 		{
 			"id": 13,
-			"name": "Spectre Decals",
+			"name": "Decal Pack",
 			"folder": "HurricaneModding/Spectre",
 			"author": "HurricaneModding"
 		},
