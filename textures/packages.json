@@ -15,7 +15,7 @@
 		{
 			"id": 2,
 			"name": "Goal Explosions",
-			"folder": "AC/Goal Explosions",
+			"folder": "AC/GoalExplosions",
 			"author": "Carsillas"
 		},
 		{
@@ -51,7 +51,7 @@
 		{
 			"id": 8,
 			"name": "Alpha Caps",
-			"folder": "HurricaneModding/Alpha Caps",
+			"folder": "HurricaneModding/AlphaCaps",
 			"author": "HurricaneModding"
 		},
 		{
@@ -63,13 +63,13 @@
 		{
 			"id": 10,
 			"name": "Dragon Lord Decals",
-			"folder": "HurricaneModding/Dragon Lord",
+			"folder": "HurricaneModding/DragonLord",
 			"author": "HurricaneModding"
 		},
 		{
 			"id": 11,
 			"name": "Goal Explosions",
-			"folder": "HurricaneModding/Goal Explosions",
+			"folder": "HurricaneModding/GoalExplosions",
 			"author": "HurricaneModding"
 		},
 		{
@@ -93,19 +93,19 @@
 		{
 			"id": 15,
 			"name": "Goodsmile Racing",
-			"folder": "KernalPad/Goodsmile Racing Decals",
+			"folder": "KernalPad/GoodsmileRacingDecals",
 			"author": "KernelPad"
 		},
 		{
 			"id": 16,
 			"name": "Hoonicorn",
-			"folder": "KernalPad/Hoonicorn Decals by KernelPad",
+			"folder": "KernalPad/HoonicornDecals",
 			"author": "KernelPad"
 		},
 		{
 			"id": 17,
 			"name": "Hyper Beast",
-			"folder": "KernalPad/Hyper Beast Decals by KernelPad",
+			"folder": "KernalPad/HyperBeastDecals",
 			"author": "KernelPad"
 		}
 	]
