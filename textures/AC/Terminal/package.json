@@ -1,7 +1,7 @@
 {
   "name": "AlphaConsole Terminal",
   "author": "BakedPVP",
-  "description": "Wheel mod that replaces Looper wheels with the AlphaConsole Terminal logo.",
+  "description": "An animated AlphaConsole Terminal logo wheel mod.",
   "items": [
     {
       "id": 0,
