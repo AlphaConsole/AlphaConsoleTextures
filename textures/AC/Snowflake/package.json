@@ -1,6 +1,7 @@
 {
   "name": "AlphaConsole Snowflake",
   "author": "Veer",
+  "description": "Wheel mod that replaces Looper wheels with the AlphaConsole Snowflake logo.",
   "items": [
     {
       "id": 0,

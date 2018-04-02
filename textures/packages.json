@@ -5,14 +5,14 @@
 			"name": "AlphaConsole Crown",
 			"folder": "AC/Crown",
 			"author": "Carsillas",
-			"description": "Wheel mod that replaces Looper wheels with the AlphaConsole Crown logo.<br><br>"
+			"description": "Wheel mod that replaces Looper wheels with the AlphaConsole Crown logo."
 		},
 		{
 			"id": 1,
 			"name": "Discord Wheels",
 			"folder": "AC/Discord",
 			"author": "Veer",
-			"description": "Wheel mod that replaces Looper wheels with the Discord logo.<br>Includes a static and an animated variant.<br><br>"
+			"description": "Wheel mod that replaces Looper wheels with the Discord logo.\nIncludes a static and an animated variant."
 		},
 		{
 			"id": 2,
@@ -25,13 +25,15 @@
 			"id": 3,
 			"name": "Util",
 			"folder": "AC/MainBodyUtilTextures",
-			"author": "Carsillas"
+			"author": "Carsillas",
+			"description": "This decal is meant to be used with main body textures to allow the color to show through."
 		},
 		{
 			"id": 4,
 			"name": "AlphaConsole Snowflake",
 			"folder": "AC/Snowflake",
-			"author": "Veer"
+			"author": "Veer",
+			"description": "Wheel mod that replaces Looper wheels with the AlphaConsole Snowflake logo."
 		},
 		{
 			"id": 5,
@@ -49,8 +51,7 @@
 			"id": 7,
 			"name": "Balls",
 			"folder": "Famiy/Balls",
-			"author": "Famiy",
-			"description": "Esports Part 1 <div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://streamable.com/s/hidxd/bsnusg' frameborder='0' width='100%' height='100%' allowfullscreen style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>Esports Part 2<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://streamable.com/s/kv3gf/hjjzfj' frameborder='0' width='100%' height='100%' allowfullscreen style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>Nations<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://streamable.com/s/953pc/ylxmpb' frameborder='0' width='100%' height='100%' allowfullscreen style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>Other<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://streamable.com/s/ff2dk/ibzck' frameborder='0' width='100%' height='100%' allowfullscreen style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>Psyonix<div style='width:100%;height:0px;position:relative;padding-bottom:56.250%;'><iframe src='https://streamable.com/s/hbklg/okusme' frameborder='0' width='100%' height='100%' allowfullscreen style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+			"author": "Famiy"
 		},
 		{
 			"id": 8,
@@ -72,42 +73,49 @@
 		},
 		{
 			"id": 11,
+			"name": "Esport Decals",
+			"folder": "HurricaneModding/EsportsDecalsPack",
+			"author": "HurricaneModding",
+			"description": "<div style='width:100%;height:0px;position:relative;padding-bottom:68.782%;'><iframe src='https://streamable.com/s/ig6zk/wcxckq' frameborder='0' width='100%' height='100%' allowfullscreen style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+		},
+		{
+			"id": 12,
 			"name": "Goal Explosions",
 			"folder": "HurricaneModding/GoalExplosions",
 			"author": "HurricaneModding"
 		},
 		{
-			"id": 12,
+			"id": 13,
 			"name": "Wheel Pack",
 			"folder": "HurricaneModding/Loopers",
 			"author": "HurricaneModding"
 		},
 		{
-			"id": 13,
+			"id": 14,
 			"name": "Decal Pack",
 			"folder": "HurricaneModding/Spectre",
 			"author": "HurricaneModding"
 		},
 		{
-			"id": 14,
+			"id": 15,
 			"name": "KernelPad Flags",
 			"folder": "KernalPad/Flags",
 			"author": "KernelPad"
 		},
 		{
-			"id": 15,
+			"id": 16,
 			"name": "Goodsmile Racing",
 			"folder": "KernalPad/GoodsmileRacingDecals",
 			"author": "KernelPad"
 		},
 		{
-			"id": 16,
+			"id": 17,
 			"name": "Hoonicorn",
 			"folder": "KernalPad/HoonicornDecals",
 			"author": "KernelPad"
 		},
 		{
-			"id": 17,
+			"id": 18,
 			"name": "Hyper Beast",
 			"folder": "KernalPad/HyperBeastDecals",
 			"author": "KernelPad"

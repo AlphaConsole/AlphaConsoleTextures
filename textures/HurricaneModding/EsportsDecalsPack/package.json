@@ -1,0 +1,163 @@
+{
+  "name": "Esport Decals",
+  "author": "HurricaneModding",
+  "description": "<div style='width:100%;height:0px;position:relative;padding-bottom:68.782%;'><iframe src='https://streamable.com/s/ig6zk/wcxckq' frameborder='0' width='100%' height='100%' allowfullscreen style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>",
+  "items": [
+    {
+      "id": 0,
+      "name": "Esport CHIEFS Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "chiefs1.png"
+        }
+      ]
+    },
+	{
+      "id": 1,
+      "name": "Esport CLG Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "clg1.png"
+        }
+      ]
+    },
+	{
+      "id": 2,
+      "name": "Esport Cloud9 Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "c9.png"
+        }
+      ]
+    },
+	{
+      "id": 3,
+      "name": "Esport CompLexity Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "compl1.png"
+        }
+      ]
+    },
+	{
+      "id": 4,
+      "name": "Esport Dignitas Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "dig1.png"
+        }
+      ]
+    },
+	{
+      "id": 5,
+      "name": "Esport EvilGeniuses Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "eg1.png"
+        }
+      ]
+    },
+	{
+      "id": 6,
+      "name": "Esport Flipside Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "f3.png"
+        }
+      ]
+    },
+	{
+      "id": 7,
+      "name": "Esport Fnatic Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "fnc1.png"
+        }
+      ]
+    },
+	{
+      "id": 8,
+      "name": "Esport G2 Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "g2.png"
+        }
+      ]
+    },
+	{
+      "id": 9,
+      "name": "Esport NRG Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "nrg1.png"
+        }
+      ]
+    },
+	{
+      "id": 10,
+      "name": "Esport Rogue Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "rog1.png"
+        }
+      ]
+    },
+	{
+      "id": 11,
+      "name": "Esport Secret Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "secret1.png"
+        }
+      ]
+    },
+	{
+      "id": 12,
+      "name": "Esport Vitality Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "vit1.png"
+        }
+      ]
+    }
+  ]
+}
