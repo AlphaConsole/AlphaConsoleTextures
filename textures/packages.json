@@ -5,14 +5,14 @@
 			"name": "AlphaConsole Crown",
 			"folder": "AC/Crown",
 			"author": "Carsillas",
-			"description": "Wheel mod that replaces Looper wheels with the AlphaConsole Crown logo. <script>alert();</script>"
+			"description": "Wheel mod that replaces Looper wheels with the AlphaConsole Crown logo.<br>"
 		},
 		{
 			"id": 1,
 			"name": "Discord Wheels",
 			"folder": "AC/Discord",
 			"author": "Veer",
-			"description": "Wheel mod that replaces Looper wheels with the Discord logo.\nIncludes a static and an animated variant."
+			"description": "Wheel mod that replaces Looper wheels with the Discord logo.\nIncludes a static and an animated variant.<br>"
 		},
 		{
 			"id": 2,
