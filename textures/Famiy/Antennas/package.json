@@ -1,11 +1,12 @@
 {
-  "name": "Famiy Antennas",
+  "name": "Antennas",
   "author": "Famiy",
+  "description": "A pennant that features Psyonix branding.",
   "items": [
 	
 		{
 			"id": 0,
-			"name": "Psyonix Penant",
+			"name": "Psyonix Pennant",
 			"slot": 4,
 			"item": 286,
 			"parameters": [

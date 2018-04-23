@@ -1,0 +1,137 @@
+{
+	"packages": [
+		{
+			"id": 0,
+			"name": "AlphaConsole Crown",
+			"folder": "AC/Crown",
+			"author": "Carsillas",
+			"description": "An AlphaConsole Crown logo wheel mod."
+		},
+		{
+			"id": 1,
+			"name": "Discord Wheels",
+			"folder": "AC/Discord",
+			"author": "Veer",
+			"description": "A Discord logo wheel mod.<br>Includes a static and an animated variant."
+		},
+		{
+			"id": 2,
+			"name": "Goal Explosions",
+			"folder": "AC/GoalExplosions",
+			"author": "Carsillas",
+			"description": "A pack of goal explosions.<br>Includes 3 styles: Banana Dance, Rizzo, and Think Blast."
+		},
+		{
+			"id": 3,
+			"name": "Util",
+			"folder": "AC/MainBodyUtilTextures",
+			"author": "Carsillas",
+			"description": "This decal is meant to be used with main body textures to allow the color to show through."
+		},
+		{
+			"id": 4,
+			"name": "AlphaConsole Snowflake",
+			"folder": "AC/Snowflake",
+			"author": "Veer",
+			"description": "An animated AlphaConsole Snowflake logo wheel mod."
+		},
+		{
+			"id": 5,
+			"name": "AlphaConsole Terminal",
+			"folder": "AC/Terminal",
+			"author": "BakedPVP",
+			"description": "An animated AlphaConsole Terminal logo wheel mod."
+		},
+		{
+			"id": 6,
+			"name": "Antennas",
+			"folder": "Famiy/Antennas",
+			"author": "Famiy",
+			"description": "A pennant that features Psyonix branding."
+		},
+		{
+			"id": 7,
+			"name": "Balls",
+			"folder": "Famiy/Balls",
+			"author": "Famiy",
+			"description": "A pack of 11 styles of ball textures.<br>Includes various teams, RLCS, and Psyonix branding."
+		},
+		{
+			"id": 8,
+			"name": "Alpha Caps",
+			"folder": "HurricaneModding/AlphaCaps",
+			"author": "HurricaneModding",
+			"description": "A pack of painted Alpha Caps. Includes 7 colors."
+		},
+		{
+			"id": 9,
+			"name": "Boost Pack",
+			"folder": "HurricaneModding/Boosts",
+			"author": "HurricaneModding",
+			"description": "<div style='width: 100%; height: 0px; position: relative; padding-bottom: 56.167%;'><iframe src='https://streamable.com/s/2h63e/uiezsl' frameborder='0' width='100%' height='100%' allowfullscreen style='width: 100%; height: 100%; position: absolute;'></iframe></div>"
+		},
+		{
+			"id": 10,
+			"name": "Color Fade Decal",
+			"folder": "HurricaneModding/DragonLord",
+			"author": "HurricaneModding",
+			"description": "A clean, gradient decal. Can be used on any car."
+		},
+		{
+			"id": 11,
+			"name": "Esport Decals",
+			"folder": "HurricaneModding/EsportsDecalsPack",
+			"author": "HurricaneModding",
+			"description": "<div style='width:100%;height:0px;position:relative;padding-bottom:68.782%;'><iframe src='https://streamable.com/s/ig6zk/wcxckq' frameborder='0' width='100%' height='100%' allowfullscreen style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+		},
+		{
+			"id": 12,
+			"name": "Goal Explosions",
+			"folder": "HurricaneModding/GoalExplosions",
+			"author": "HurricaneModding",
+			"description": "A pack of goal explosions.<br>Includes 5 styles: Fire Golem, Thinking, PogChamp, Minecraft Grass, and Minecraft Diamond Ore."
+		},
+		{
+			"id": 13,
+			"name": "Wheel Pack",
+			"folder": "HurricaneModding/Loopers",
+			"author": "HurricaneModding",
+			"description": "A pack of custom wheel mods.<br>Includes 4 styles: Firework, Flower, Star, and Trinity."
+		},
+		{
+			"id": 14,
+			"name": "Decal Pack",
+			"folder": "HurricaneModding/Spectre",
+			"author": "HurricaneModding",
+			"description": "<div style='width:100%;height:0px;position:relative;padding-bottom:56.333%;'><iframe src='https://streamable.com/s/vikqs/ukiwio' frameborder='0' width='100%' height='100%' allowfullscreen style='width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;'></iframe></div>"
+		},
+		{
+			"id": 15,
+			"name": "KernelPad Flags",
+			"folder": "KernalPad/Flags",
+			"author": "KernelPad",
+			"description": "A pack of various team flags. Includes 14 different styles."
+		},
+		{
+			"id": 16,
+			"name": "Goodsmile Racing",
+			"folder": "KernalPad/GoodsmileRacingDecals",
+			"author": "KernelPad",
+			"description": "A Goodsmile Racing branded decal for the Octane."
+		},
+		{
+			"id": 17,
+			"name": "Hoonicorn",
+			"folder": "KernalPad/HoonicornDecals",
+			"author": "KernelPad",
+			"description": "A Hoonicorn branded decal for the Ice Charger."
+		},
+		{
+			"id": 18,
+			"name": "Hyper Beast",
+			"folder": "KernalPad/HyperBeastDecals",
+			"author": "KernelPad",
+			"description": "A Hyper Beast styled decal for the Octane."
+		}
+	]
+}

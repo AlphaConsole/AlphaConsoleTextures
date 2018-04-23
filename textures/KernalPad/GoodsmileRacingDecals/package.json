@@ -1,0 +1,37 @@
+{
+  "name": "Goodsmile Racing",
+  "author": "KernelPad",
+  "description": "A Goodsmile Racing branded decal for the Octane.",
+  "items": [
+    {
+      "id": 0,
+      "name": "Octane: Goodsmile Racing",
+      "slot": -3,
+      "item": -1,
+      "parameters": [
+        {
+          "name": "Diffuse",
+          "image": "Goodsmile.png",
+		  "animated": false,
+		  "frames":1,
+		  "framerate":1
+        }
+      ]
+    },
+	{
+      "id": 1,
+      "name": "Octane: Goodsmile Racing",
+      "slot": -4,
+      "item": -1,
+      "parameters": [
+        {
+          "name": "Diffuse",
+          "image": "GoodsmileEngine.png",
+		  "animated": false,
+		  "frames":1,
+		  "framerate":1
+        }
+      ]
+    }
+  ]
+}
