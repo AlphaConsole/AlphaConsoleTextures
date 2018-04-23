@@ -151,6 +151,30 @@
 				"image": "Psyonix Titanium White Bumpmap.png"
 			}
 		]
+	},
+	{
+		"id": 11,
+		"name": "Esports Evil Geniuses",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Evil Geniuses Blue.png"
+			}
+		]
+	},
+	{
+		"id": 12,
+		"name": "Esports Evil Geniuses Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Evil Geniuses Grey.png"
+			}
+		]
 	}
 ]
 }
