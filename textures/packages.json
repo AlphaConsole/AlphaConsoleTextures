@@ -132,6 +132,13 @@
 			"folder": "KernalPad/HyperBeastDecals",
 			"author": "KernelPad",
 			"description": "A Hyper Beast styled decal for the Octane."
+		},
+		{
+			"id": 19,
+			"name": "SubParButInHD Decal",
+			"folder": "SubPar",
+			"author": "DanMB",
+			"description": "A SubParButInHD Octane decal"
 		}
 	]
 }
