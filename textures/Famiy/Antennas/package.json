@@ -2,7 +2,7 @@
   "id": 6,
   "name": "Antennas",
   "author": "Famiy",
-  "description": "A pennant that features Psyonix branding.",
+  "description": "A pennant that features Psyonix branding and flags that feature various club football brandings.<br><br>Includes:<br><br><ul><li>Bundesliga</li><ul><li>Bayern<li>Dortmund<li>Frankfurt<li>Leverkusen<li>Schalke</ul><br><br><li>Premier League</li><ul><li>Chelsea<li>Liverpool<li>Man City<li>Man United<li>Tottenham</ul><br><br><li>Eredevisie</li><ul><li>Ajax<li>AZ Alkmaar<li>Feyenoord<li>PSV<li>Utrecht</ul><br><br><li>La Liga</li><ul><li>Atletico<li>Barcelona<li>Real Betis<li>Real Madrid<li>Valencia</ul><br><br><li>Ligue 1</li><ul><li>Lyonnais<li>Marseille<li>Monaco<li>PSG</ul><br><br><li>Serie A</li><ul><li>AC Milan<li>AS Roma<li>Inter<li>Juventus<li>Lazio<li>Napoli</ul><br><br>",
   "items": [
 	
 		{
@@ -30,6 +30,366 @@
 					"image": "Antenna_Psyonix.png"
 				}
 			]
-		}
+		},
+		{
+		"id": 1,
+		"name": "Bundesliga Bayern",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Bundesliga Bayern.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Bundesliga Dortmund",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Bundesliga Dortmund.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Bundesliga Frankfurt",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Bundesliga Frankfurt.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Bundesliga Leverkusen",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Bundesliga Leverkusen.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Bundesliga Schalke",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Bundesliga Schalke.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "EPL Chelsea",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "EPL Chelsea.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "EPL Liverpool",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "EPL Liverpool.png"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "EPL Man City",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "EPL Man City.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "EPL Man United",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "EPL Man United.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "EPL Tottenham",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "EPL Tottenham.png"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "Eredevisie Ajax",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Eredevisie Ajax.png"
+			}
+		]
+	},
+	{
+		"id": 12,
+		"name": "Eredevisie AZ Alkmaar",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Eredevisie AZ Alkmaar.png"
+			}
+		]
+	},
+	{
+		"id": 13,
+		"name": "Eredevisie Feyenoord",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Eredevisie Feyenoord.png"
+			}
+		]
+	},
+	{
+		"id": 14,
+		"name": "Eredevisie PSV",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Eredevisie PSV.png"
+			}
+		]
+	},
+	{
+		"id": 15,
+		"name": "Eredevisie Utrecht",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Eredevisie Utrecht.png"
+			}
+		]
+	},
+	{
+		"id": 16,
+		"name": "La Liga Atletico",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "La Liga Atletico.png"
+			}
+		]
+	},
+	{
+		"id": 17,
+		"name": "La Liga Barcelona",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "La Liga Barcelona.png"
+			}
+		]
+	},
+	{
+		"id": 18,
+		"name": "La Liga Real Betis",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "La Liga Real Betis.png"
+			}
+		]
+	},
+	{
+		"id": 19,
+		"name": "La Liga Real Madrid",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "La Liga Real Madrid.png"
+			}
+		]
+	},
+	{
+		"id": 20,
+		"name": "La Liga Valencia",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "La Liga Valencia.png"
+			}
+		]
+	},
+	{
+		"id": 21,
+		"name": "Ligue 1 Lyonnais",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Ligue 1 Lyonnais.png"
+			}
+		]
+	},
+	{
+		"id": 22,
+		"name": "Ligue 1 Marseille",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Ligue 1 Marseille.png"
+			}
+		]
+	},
+	{
+		"id": 23,
+		"name": "Ligue 1 Monaco",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Ligue 1 Monaco.png"
+			}
+		]
+	},
+	{
+		"id": 24,
+		"name": "Ligue 1 PSG",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Ligue 1 PSG.png"
+			}
+		]
+	},
+	{
+		"id": 25,
+		"name": "Serie A AC Milan",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Serie A AC Milan.png"
+			}
+		]
+	},
+	{
+		"id": 26,
+		"name": "Serie A AS Roma",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Serie A AS Roma.png"
+			}
+		]
+	},
+	{
+		"id": 27,
+		"name": "Serie A Inter",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Serie A Inter.png"
+			}
+		]
+	},
+	{
+		"id": 28,
+		"name": "Serie A Juventus",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Serie A Juventus.png"
+			}
+		]
+	},
+	{
+		"id": 29,
+		"name": "Serie A Lazio",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Serie A Lazio.png"
+			}
+		]
+	},
+	{
+		"id": 30,
+		"name": "Serie A Napoli",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Serie A Napoli.png"
+			}
+		]
+	}
 	]
 }
