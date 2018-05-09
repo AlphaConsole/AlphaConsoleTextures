@@ -303,6 +303,126 @@
           "image": "tsm1.png"
         }
       ]
+    },
+	{
+      "id": 25,
+      "name": "Esport Espsilon Esport Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "eps1.png"
+        }
+      ]
+    },
+	{
+      "id": 26,
+      "name": "Esport Dark Sided Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "ds1.png"
+        }
+      ]
+    },
+	{
+      "id": 27,
+      "name": "Esport Juicy Kids Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "jcy1.png"
+        }
+      ]
+    },
+	{
+      "id": 28,
+      "name": "Esport OutOfStyle Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "OoS1.png"
+        },
+		{
+          "name": "CurvaturePack",
+          "image": "pbtoct.png"
+        }
+      ]
+    },
+	{
+      "id": 29,
+      "name": "Esport Placebo Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "plac1.png"
+        },
+		{
+          "name": "CurvaturePack",
+          "image": "pbtoct.png"
+        }
+      ]
+    },
+	{
+      "id": 30,
+      "name": "Esport Splyce Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "spl1.png"
+        }
+      ]
+    },
+	{
+      "id": 31,
+      "name": "Esport TaintedMinds Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "tm1.png"
+        }
+      ]
+    },
+	{
+      "id": 32,
+      "name": "Esport exceL esports Octane",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "xL1.png"
+        }
+      ]
+    },
+	{
+      "id": 33,
+      "name": "Esport Triple Trouble Octane",
+      "slot": 1,
+      "item": 1637,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "tr1.png"
+        },
+		{
+          "name": "CurvaturePack",
+          "image": "pbtoct.png"
+        }
+      ]
     }
 	
   ]
