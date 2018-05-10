@@ -13,10 +13,6 @@
 			{
 				"name": "Diffuse",
 				"image": "Psyonix Black.png"
-			},
-			{
-				"name": "Normal",
-				"image": "Psyonix Bumpmap.png"
 			}
 		]
 	},
