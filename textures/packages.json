@@ -156,7 +156,7 @@
 		},
 		{
 			"id": 1901,
-			"name": "Balls Esports A-C",
+			"name": "Balls Esports G-M",
 			"folder": "ZFamiy/Balls/EsportsGM",
 			"author": "Famiy",
 			"description": "This pack includes balls for: 5 Esports teams, including G2, GaleForce, Ghost, Hammers, Method."
@@ -195,6 +195,13 @@
 			"folder": "ZFamiy/Balls/Psyonix",
 			"author": "Famiy",
 			"description": "This pack includes various balls with the Psyonix branding. Colors include: Cobalt, Crimson, Forest Green, Lime, Orange, Original, Pink, Purple, Saffron, Titanium White."
+		},
+    {
+			"id": 1907,
+			"name": "Dominus Esports",
+			"folder": "Famiy/Dominus/EsportsFullColor",
+			"author": "Famiy",
+			"description": "This pack includes 6 full color Esports decals for Dominus. You'll need to equip the decal called Dominus: Main Body Only and pick the skin you want from the Main Body dropdown box."
 		}
 	]
 }
