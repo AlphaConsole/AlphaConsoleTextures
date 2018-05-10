@@ -1,0 +1,110 @@
+{
+	"id": 1907,
+	"name": "Dominus Esports",
+	"author": "Famiy",
+	"description": "This pack includes 6 full color Esports decals for Dominus. You'll need to equip the decal called Dominus: Main Body Only and pick the skin you want from the Main Body dropdown box.",
+	"items": [
+		{
+			"id": 0,
+			"name": "Dominus Esports: Allegiance",
+			"slot": -3,
+			"item": -1,
+			"parameters": [
+				{
+					"name": "Diffuse",
+					"image": "DominusAllegiance.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 1,
+			"name": "Dominus Esports: Ares",
+			"slot": -3,
+			"item": -1,
+			"parameters": [
+				{
+					"name": "Diffuse",
+					"image": "DominusAres.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Dominus Esports: Chiefs",
+			"slot": -3,
+			"item": -1,
+			"parameters": [
+				{
+					"name": "Diffuse",
+					"image": "DominusChiefs.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Dominus Esports: Cloud 9",
+			"slot": -3,
+			"item": -1,
+			"parameters": [
+				{
+					"name": "Diffuse",
+					"image": "DominusCloud9.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Dominus Esports: Complexity",
+			"slot": -3,
+			"item": -1,
+			"parameters": [
+				{
+					"name": "Diffuse",
+					"image": "DominusComplexity.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "Dominus Esports: Counter Logic",
+			"slot": -3,
+			"item": -1,
+			"parameters": [
+				{
+					"name": "Diffuse",
+					"image": "DominusCounterLogic.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "Dominus: Main Body Only",
+			"slot": 1,
+			"item": 504,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "MainBodyOnly.png"
+				}
+			]
+		}
+	]
+}
