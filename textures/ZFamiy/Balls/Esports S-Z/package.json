@@ -1,0 +1,153 @@
+{
+  "id": 1903,
+  "name": "Balls Esports S-Z",
+  "author": "Famiy",
+  "description": "This pack includes balls for: 5 Esports teams, including Servette Geneva, SpaceStation, Splyce, Team Secret, Veritas.",
+  "items": [
+	
+	{
+		"id": 0,
+		"name": "Esports Servette Geneva Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Servette Geneva Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Servette Geneva Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "Esports Servette Geneva Red",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Servette Geneva Red.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Servette Geneva Red Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Esports SpaceStation Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports SpaceStation Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports SpaceStation Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Esports SpaceStation Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports SpaceStation Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports SpaceStation Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Esports SpaceStation Yellow",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports SpaceStation Yellow.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports SpaceStation Yellow Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Esports Splyce Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Splyce Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Splyce Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Esports Splyce Yellow",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Splyce Yellow.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Splyce Yellow Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Esports Team Secret Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Team Secret Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Team Secret Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Esports Veritas Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Veritas Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Veritas Grey Bumpmap.png"
+			}
+		]
+	}
+]
+}

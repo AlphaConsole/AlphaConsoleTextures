@@ -1,0 +1,137 @@
+{
+  "id": 1905,
+  "name": "Balls Other",
+  "author": "Famiy",
+  "description": "This pack includes balls for: 7 themes, including Baseball, Duodeka 12, RLCS, Rocket League, Tennis.",
+  "items": [
+	
+	{
+		"id": 0,
+		"name": "Other Baseball",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Other Baseball.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Other Baseball Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "Other Duodeka 12 Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Other Duodeka 12 Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Other Duodeka 12 Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Other Duodeka 12 Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Other Duodeka 12 Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Other Duodeka 12 Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Other Duodeka 12 Red",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Other Duodeka 12 Red.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Other Duodeka 12 Red Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Other RLCS",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Other RLCS.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Other RLCS Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Other RocketLeague Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Other RocketLeague Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Other RocketLeague Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Other RocketLeague White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Other RocketLeague White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Other RocketLeague White Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Other Tennis",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Other Tennis.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Other Tennis Bumpmap.png"
+			}
+		]
+	}
+]
+}

@@ -1,0 +1,233 @@
+{
+  "id": 1900,
+  "name": "Balls Esports F",
+  "author": "Famiy",
+  "description": "This pack includes balls for: 4 Esports teams, including Fibeon, Flipside, FlyQuest, Fnatic.",
+  "items": [
+	
+	{
+		"id": 0,
+		"name": "Esports Fibeon Gold",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Fibeon Gold.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Fibeon Gold Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "Esports Fibeon Green",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Fibeon Green.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Fibeon Green Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Esports Fibeon Pink",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Fibeon Pink.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Fibeon Pink Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Esports Flipside Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Flipside Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Flipside Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Esports Flipside Black2",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Flipside Black2.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Flipside Black2 Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Esports Flipside Green",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Flipside Green.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Flipside Green Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Esports Flipside White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Flipside White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Flipside White Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Esports FlyQuest Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports FlyQuest Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports FlyQuest Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Esports FlyQuest Green",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports FlyQuest Green.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports FlyQuest Green Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Esports FlyQuest White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports FlyQuest White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports FlyQuest White Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Esports FlyQuest Yellow",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports FlyQuest Yellow.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports FlyQuest Yellow Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "Esports Fnatic Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Fnatic Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Fnatic Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 12,
+		"name": "Esports Fnatic Orange",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Fnatic Orange.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Fnatic Orange Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 13,
+		"name": "Esports Fnatic White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Fnatic White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Fnatic White Bumpmap.png"
+			}
+		]
+	}
+]
+}

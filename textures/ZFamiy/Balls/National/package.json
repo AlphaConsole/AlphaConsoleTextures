@@ -1,0 +1,233 @@
+{
+  "id": 1904,
+  "name": "Balls National",
+  "author": "Famiy",
+  "description": "This pack includes balls for: 7 Nations, including Argentina, Belgium, England, France, Germany, Russia, Spain.",
+  "items": [
+	
+	{
+		"id": 0,
+		"name": "National Argentina Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National Argentina Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National Argentina Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "National Argentina Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National Argentina Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National Argentina Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "National Belgium Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National Belgium Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National Belgium Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "National Belgium Red",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National Belgium Red.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National Belgium Red Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "National England Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National England Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National England Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "National England Red",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National England Red.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National England Red Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "National France Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National France Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National France Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "National France Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National France Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National France Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "National Germany Grey 1",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National Germany Grey 1.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National Germany Grey 1 Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "National Germany Grey 2",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National Germany Grey 2.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National Germany Grey 2 Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "National Russia Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National Russia Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National Russia Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "National Russia Red",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National Russia Red.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National Russia Red Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 12,
+		"name": "National Spain Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National Spain Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National Spain Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 13,
+		"name": "National Spain Red",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "National Spain Red.png"
+			},
+			{
+				"name": "Normal",
+				"image": "National Spain Red Bumpmap.png"
+			}
+		]
+	}
+]
+}

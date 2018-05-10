@@ -1,0 +1,185 @@
+{
+  "id": 1899,
+  "name": "Balls Esports D-E",
+  "author": "Famiy",
+  "description": "This pack includes balls for: 5 Esports teams, including Dignitas, Endpoint, EnvyUs, Evil Geniuses, exceL",
+  "items": [
+	
+	{
+		"id": 0,
+		"name": "Esports Dignitas Black1",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Dignitas Black1.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Dignitas Black1 Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "Esports Dignitas Black2",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Dignitas Black2.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Dignitas Black2 Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Esports Endpoint Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Endpoint Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Endpoint Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Esports Endpoint Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Endpoint Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Endpoint Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Esports EnvyUs Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports EnvyUs Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports EnvyUs Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Esports EnvyUs Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports EnvyUs Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports EnvyUs Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Esports EnvyUs Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports EnvyUs Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports EnvyUs Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Esports Evil Geniuses Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Evil Geniuses Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Evil Geniuses Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Esports Evil Geniuses Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Evil Geniuses Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Evil Geniuses Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Esports exceL Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports exceL Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports exceL Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Esports exceL Orange",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports exceL Orange.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports exceL Orange Bumpmap.png"
+			}
+		]
+	}
+]
+}

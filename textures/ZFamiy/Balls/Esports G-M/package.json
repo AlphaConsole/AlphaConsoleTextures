@@ -1,0 +1,185 @@
+{
+  "id": 1901,
+  "name": "Balls Esports A-C",
+  "author": "Famiy",
+  "description": "This pack includes balls for: 5 Esports teams, including G2, GaleForce, Ghost, Hammers, Method.",
+  "items": [
+	
+	{
+		"id": 0,
+		"name": "Esports G2 Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports G2 Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports G2 Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "Esports G2 Orange",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports G2 Orange.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports G2 Orange Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Esports G2 White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports G2 White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports G2 White Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Esports Gale Force Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Gale Force Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Gale Force Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Esports Gale Force White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Gale Force White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Gale Force White Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Esports Gale Force Yellow",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Gale Force Yellow.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Gale Force Yellow Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Esports Ghost Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Ghost Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Ghost Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Esports Ghost White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Ghost White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Ghost White Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Esports HollywoodHammers Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports HollywoodHammers Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports HollywoodHammers Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Esports Method Orange",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Method Orange.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Method Orange Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Esports Method White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Method White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Method White Bumpmap.png"
+			}
+		]
+	}
+]
+}

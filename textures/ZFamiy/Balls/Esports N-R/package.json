@@ -1,0 +1,233 @@
+{
+  "id": 1902,
+  "name": "Balls Esports N-R",
+  "author": "Famiy",
+  "description": "This pack includes balls for: 6 Esports teams, including NorthernGaming, NRG, PSG, Renault Vitality, Renegades, Rogue.",
+  "items": [
+	
+	{
+		"id": 0,
+		"name": "Esports NorthernGaming Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports NorthernGaming Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports NorthernGaming Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "Esports NorthernGaming White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports NorthernGaming White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports NorthernGaming White Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Esports NRG Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports NRG Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports NRG Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Esports NRG White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports NRG White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports NRG White Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Esports PSG Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports PSG Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports PSG Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Esports PSG Camo",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports PSG Camo.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports PSG Camo Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Esports PSG Yellow",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports PSG Yellow.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports PSG Yellow Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Esports Renault Vitality Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Renault Sport Team Vitality Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Renault Sport Team Vitality Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Esports Renault Vitality Yellow",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Renault Sport Team Vitality Yellow.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Renault Sport Team Vitality Yellow Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Esports Renegades Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Renegades Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Renegades Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Esports Renegades Red",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Renegades Red.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Renegades Red Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "Esports Rogue Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Rogue Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Rogue Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 12,
+		"name": "Esports Rogue Orange",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Rogue Orange.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Rogue Orange Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 13,
+		"name": "Esports Rogue White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Rogue White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Rogue White Bumpmap.png"
+			}
+		]
+	}
+]
+}

@@ -1,0 +1,169 @@
+{
+  "id": 1906,
+  "name": "Balls Psyonix",
+  "author": "Famiy",
+  "description": "This pack includes various balls with the Psyonix branding. Colors include: Cobalt, Crimson, Forest Green, Lime, Orange, Original, Pink, Purple, Saffron, Titanium White.",
+  "items": [
+	
+	{
+		"id": 0,
+		"name": "Psyonix Cobalt",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Psyonix Cobalt.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Psyonix Cobalt Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "Psyonix Crimson",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Psyonix Crimson.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Psyonix Crimson Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Psyonix Forest Green",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Psyonix Forest Green.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Psyonix Forest Green Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Psyonix Lime",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Psyonix Lime.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Psyonix Lime Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Psyonix Orange",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Psyonix Orange.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Psyonix Orange Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Psyonix Original",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Psyonix Original.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Psyonix Original Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Psyonix Pink",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Psyonix Pink.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Psyonix Pink Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Psyonix Purple",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Psyonix Purple.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Psyonix Purple Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Psyonix Saffron",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Psyonix Saffron.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Psyonix Saffron Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Psyonix Titanium White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Psyonix Titanium White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Psyonix Titanium White Bumpmap.png"
+			}
+		]
+	}
+]
+}

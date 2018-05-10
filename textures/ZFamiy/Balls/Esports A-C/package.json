@@ -1,0 +1,201 @@
+{
+  "id": 1898,
+  "name": "Balls Esports A-C",
+  "author": "Famiy",
+  "description": "This pack includes balls for: 7 Esports teams, including Allegiance, Ambition, Ares, Chiefs, Cloud 9, Complexity, Counter Logic.",
+  "items": [
+	
+	{
+		"id": 0,
+		"name": "Esports Allegiance Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Allegiance Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Allegiance Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "Esports Ambition Red",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Ambition Red.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Ambition Red Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Esports Ambition White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Ambition White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Ambition White Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Esports Ares White",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Ares White.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Ares White Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Esports Chiefs Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Chiefs Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Chiefs Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Esports Chiefs Orange",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Chiefs Orange.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Chiefs Orange Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Esports Cloud9 Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Cloud9 Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Cloud9 Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Esports Cloud9 Blue",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Cloud9 Blue.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Cloud9 Blue Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Esports Complexity Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Complexity Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Complexity Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Esports Complexity Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Complexity Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Complexity Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Esports Counter Logic Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Counter Logic Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Counter Logic Black Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "Esports Counter Logic Grey",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Counter Logic Grey.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Counter Logic Grey Bumpmap.png"
+			}
+		]
+	}
+]
+}
