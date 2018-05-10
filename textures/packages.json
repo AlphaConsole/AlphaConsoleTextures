@@ -134,74 +134,74 @@
       "description": "A SubParButInHD Octane decal"
     },
     {
+			"id": 1907,
+			"name": "Dominus Esports",
+			"folder": "Famiy/Dominus/EsportsFullColor",
+			"author": "Famiy",
+			"description": "This pack includes 6 full color Esports decals for Dominus. You'll need to equip the decal called Dominus: Main Body Only and pick the skin you want from the Main Body dropdown box."
+		},
+    {
 			"id": 1898,
 			"name": "Balls Esports A-C",
-			"folder": "ZFamiy/Balls/EsportsAC",
+			"folder": "Famiy/Balls/EsportsAC",
 			"author": "Famiy",
 			"description": "This pack includes balls for: 7 Esports teams, including Allegiance, Ambition, Ares, Chiefs, Cloud 9, Complexity, Counter Logic."
 		},
 		{
 			"id": 1899,
 			"name": "Balls Esports D-E",
-			"folder": "ZFamiy/Balls/EsportsDE",
+			"folder": "Famiy/Balls/EsportsDE",
 			"author": "Famiy",
 			"description": "This pack includes balls for: 5 Esports teams, including Dignitas, Endpoint, EnvyUs, Evil Geniuses, exceL"
 		},
 		{
 			"id": 1900,
 			"name": "Balls Esports F",
-			"folder": "ZFamiy/Balls/EsportsF",
+			"folder": "Famiy/Balls/EsportsF",
 			"author": "Famiy",
 			"description": "This pack includes balls for: 4 Esports teams, including Fibeon, Flipside, FlyQuest, Fnatic."
 		},
 		{
 			"id": 1901,
 			"name": "Balls Esports G-M",
-			"folder": "ZFamiy/Balls/EsportsGM",
+			"folder": "Famiy/Balls/EsportsGM",
 			"author": "Famiy",
 			"description": "This pack includes balls for: 5 Esports teams, including G2, GaleForce, Ghost, Hammers, Method."
 		},
 		{
 			"id": 1902,
 			"name": "Balls Esports N-R",
-			"folder": "ZFamiy/Balls/EsportsNR",
+			"folder": "Famiy/Balls/EsportsNR",
 			"author": "Famiy",
 			"description": "This pack includes balls for: 6 Esports teams, including NorthernGaming, NRG, PSG, Renault Vitality, Renegades, Rogue."
 		},
 		{
 			"id": 1903,
 			"name": "Balls Esports S-Z",
-			"folder": "ZFamiy/Balls/EsportsSZ",
+			"folder": "Famiy/Balls/EsportsSZ",
 			"author": "Famiy",
 			"description": "This pack includes balls for: 5 Esports teams, including Servette Geneva, SpaceStation, Splyce, Team Secret, Veritas."
 		},
 		{
 			"id": 1904,
 			"name": "Balls National",
-			"folder": "ZFamiy/Balls/National",
+			"folder": "Famiy/Balls/National",
 			"author": "Famiy",
 			"description": "This pack includes balls for: 7 Nations, including Argentina, Belgium, England, France, Germany, Russia, Spain."
 		},
 		{
 			"id": 1905,
 			"name": "Balls Other",
-			"folder": "ZFamiy/Balls/Other",
+			"folder": "Famiy/Balls/Other",
 			"author": "Famiy",
 			"description": "This pack includes balls for: 7 themes, including Baseball, Duodeka 12, RLCS, Rocket League, Tennis."
 		},
 		{
 			"id": 1906,
 			"name": "Balls Psyonix",
-			"folder": "ZFamiy/Balls/Psyonix",
+			"folder": "Famiy/Balls/Psyonix",
 			"author": "Famiy",
 			"description": "This pack includes various balls with the Psyonix branding. Colors include: Cobalt, Crimson, Forest Green, Lime, Orange, Original, Pink, Purple, Saffron, Titanium White."
-		},
-    {
-			"id": 1907,
-			"name": "Dominus Esports",
-			"folder": "Famiy/Dominus/EsportsFullColor",
-			"author": "Famiy",
-			"description": "This pack includes 6 full color Esports decals for Dominus. You'll need to equip the decal called Dominus: Main Body Only and pick the skin you want from the Main Body dropdown box."
 		}
 	]
 }
