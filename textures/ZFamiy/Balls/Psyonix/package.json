@@ -4,20 +4,9 @@
   "author": "Famiy",
   "description": "This pack includes various balls with the Psyonix branding. Colors include: Black, Cobalt, Crimson, Forest Green, Lime, Orange, Original, Pink, Purple, Saffron, Titanium White.",
   "items": [	
+	
 	{
 		"id": 0,
-		"name": "Psyonix Black",
-		"slot": -2,
-		"item": -1,
-		"parameters": [
-			{
-				"name": "Diffuse",
-				"image": "Psyonix Black.png"
-			}
-		]
-	},
-	{
-		"id": 1,
 		"name": "Psyonix Cobalt",
 		"slot": -2,
 		"item": -1,
@@ -33,7 +22,7 @@
 		]
 	},
 	{
-		"id": 2,
+		"id": 1,
 		"name": "Psyonix Crimson",
 		"slot": -2,
 		"item": -1,
@@ -49,7 +38,7 @@
 		]
 	},
 	{
-		"id": 3,
+		"id": 2,
 		"name": "Psyonix Forest Green",
 		"slot": -2,
 		"item": -1,
@@ -65,7 +54,7 @@
 		]
 	},
 	{
-		"id": 4,
+		"id": 3,
 		"name": "Psyonix Lime",
 		"slot": -2,
 		"item": -1,
@@ -81,7 +70,7 @@
 		]
 	},
 	{
-		"id": 5,
+		"id": 4,
 		"name": "Psyonix Orange",
 		"slot": -2,
 		"item": -1,
@@ -97,7 +86,7 @@
 		]
 	},
 	{
-		"id": 6,
+		"id": 5,
 		"name": "Psyonix Original",
 		"slot": -2,
 		"item": -1,
@@ -113,7 +102,7 @@
 		]
 	},
 	{
-		"id": 7,
+		"id": 6,
 		"name": "Psyonix Pink",
 		"slot": -2,
 		"item": -1,
@@ -129,7 +118,7 @@
 		]
 	},
 	{
-		"id": 8,
+		"id": 7,
 		"name": "Psyonix Purple",
 		"slot": -2,
 		"item": -1,
@@ -145,7 +134,7 @@
 		]
 	},
 	{
-		"id": 9,
+		"id": 8,
 		"name": "Psyonix Saffron",
 		"slot": -2,
 		"item": -1,
@@ -161,7 +150,7 @@
 		]
 	},
 	{
-		"id": 10,
+		"id": 9,
 		"name": "Psyonix Titanium White",
 		"slot": -2,
 		"item": -1,
