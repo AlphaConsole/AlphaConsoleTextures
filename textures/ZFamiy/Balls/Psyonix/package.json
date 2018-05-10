@@ -17,7 +17,7 @@
 			},
 			{
 				"name": "Normal",
-				"image": "Psyonix Cobalt Bumpmap.png"
+				"image": "Psyonix Bumpmap.png"
 			}
 		]
 	},
@@ -33,7 +33,7 @@
 			},
 			{
 				"name": "Normal",
-				"image": "Psyonix Crimson Bumpmap.png"
+				"image": "Psyonix Bumpmap.png"
 			}
 		]
 	},
@@ -49,7 +49,7 @@
 			},
 			{
 				"name": "Normal",
-				"image": "Psyonix Forest Green Bumpmap.png"
+				"image": "Psyonix Bumpmap.png"
 			}
 		]
 	},
@@ -65,7 +65,7 @@
 			},
 			{
 				"name": "Normal",
-				"image": "Psyonix Lime Bumpmap.png"
+				"image": "Psyonix Bumpmap.png"
 			}
 		]
 	},
@@ -81,7 +81,7 @@
 			},
 			{
 				"name": "Normal",
-				"image": "Psyonix Orange Bumpmap.png"
+				"image": "Psyonix Bumpmap.png"
 			}
 		]
 	},
@@ -97,7 +97,7 @@
 			},
 			{
 				"name": "Normal",
-				"image": "Psyonix Original Bumpmap.png"
+				"image": "Psyonix Bumpmap.png"
 			}
 		]
 	},
@@ -113,7 +113,7 @@
 			},
 			{
 				"name": "Normal",
-				"image": "Psyonix Pink Bumpmap.png"
+				"image": "Psyonix Bumpmap.png"
 			}
 		]
 	},
@@ -129,7 +129,7 @@
 			},
 			{
 				"name": "Normal",
-				"image": "Psyonix Purple Bumpmap.png"
+				"image": "Psyonix Bumpmap.png"
 			}
 		]
 	},
@@ -145,7 +145,7 @@
 			},
 			{
 				"name": "Normal",
-				"image": "Psyonix Saffron Bumpmap.png"
+				"image": "Psyonix Bumpmap.png"
 			}
 		]
 	},
@@ -161,7 +161,23 @@
 			},
 			{
 				"name": "Normal",
-				"image": "Psyonix Titanium White Bumpmap.png"
+				"image": "Psyonix Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Psyonix Black",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Psyonix Black.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Psyonix Bumpmap.png"
 			}
 		]
 	}
