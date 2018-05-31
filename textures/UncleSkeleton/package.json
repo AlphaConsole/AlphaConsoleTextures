@@ -1,0 +1,32 @@
+{
+  "id": 12222,
+  "name": "PhantomACE Decals",
+  "author": "Uncle Skeleton",
+  "description": "Created for PhantomACE and his brilliant subscribers.",
+  "items": [
+    {
+      "id": 0,
+      "name": "PhantomACE",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "PhantomACE.png"
+        }
+      ]
+    },
+	{
+      "id": 1,
+      "name": "PhantomACE - Sellout",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "PhamSellout.png"
+        }
+      ]
+    }
+  ]
+}
