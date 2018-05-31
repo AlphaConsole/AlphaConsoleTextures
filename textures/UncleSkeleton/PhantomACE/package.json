@@ -6,9 +6,9 @@
   "items": [
     {
       "id": 0,
-      "name": "PhantomACE",
+      "name": "Octane: PhantomACE (Paintable)",
       "slot": 1,
-      "item": 306,
+      "item": 1744,
       "parameters": [
         {
           "name": "Skin",
@@ -18,7 +18,7 @@
     },
 	{
       "id": 1,
-      "name": "PhantomACE - Sellout",
+      "name": "Octane: PhantomACE - Sellout",
       "slot": 1,
       "item": 306,
       "parameters": [
