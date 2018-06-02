@@ -1,0 +1,248 @@
+{
+	"id": 1908,
+	"name": "Dominus Esports (Paintable)",
+	"author": "Famiy",
+	"description": "You are able to change the primary and secondary colors in your garage. For more paint options (i.e. black/white primary) you can also change those two colors through Alpha Console. For most of my decals your are also able to change a third color by picking a color in the dropdown menu to the right of the 'Decal' type.",
+	"items": [
+		{
+			"id": 0,
+			"name": "Dominus Esports: Allegiance",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomAllegiance.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 1,
+			"name": "Dominus Esports: Ares",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomAres.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Dominus Esports: Chiefs",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomChiefs.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Dominus Esports: Cloud 9",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomCloud9.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Dominus Esports: Complexity",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomComplexity.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "Dominus Esports: CLG",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomCounterLogic.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "Dominus Esports: Endpoint",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomEndpoint.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 7,
+			"name": "Dominus Esports: EnvyUs",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomEnvyUs.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 8,
+			"name": "Dominus Esports: Evil Geniuses",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomEvilGeniuses.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"name": "Dominus Esports: exceL",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomExceL.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 10,
+			"name": "Dominus Esports: Flipside",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomFlipside.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 11,
+			"name": "Dominus Esports: Fnatic",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomFnatic.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 12,
+			"name": "Dominus Esports: G2",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomG2.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 13,
+			"name": "Dominus Esports: Method",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomMethod.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 14,
+			"name": "Dominus Esports: NRG",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomNRG.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 15,
+			"name": "Dominus Esports: PSG",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomPSG.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		}
+	]
+}

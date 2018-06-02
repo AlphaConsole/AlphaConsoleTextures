@@ -134,11 +134,32 @@
       "description": "A SubParButInHD Octane decal"
     },
     {
-			"id": 1907,
+			"id": 1908,
 			"name": "Dominus Esports",
+			"folder": "Famiy/Dominus/EsportsPaintable",
+			"author": "Famiy",
+			"description": "You are able to change the primary and secondary colors in your garage. For more paint options (i.e. black/white primary) you can also change those two colors through Alpha Console. For most of my decals your are also able to change a third color by picking a color in the dropdown menu to the right of the 'Decal' type."
+		},
+    {
+			"id": 1907,
+			"name": "Balls Psyonix",
 			"folder": "Famiy/Dominus/EsportsFullColor",
 			"author": "Famiy",
-			"description": "This pack includes 6 full color Esports decals for Dominus. You'll need to equip the decal called Dominus: Main Body Only and pick the skin you want from the Main Body dropdown box."
+			"description": "This pack includes various balls with the Psyonix branding. Colors include: Cobalt, Crimson, Forest Green, Lime, Orange, Original, Pink, Purple, Saffron, Titanium White."
+		},
+		{
+			"id": 8888,
+			"name": "Jon Sandman",
+			"folder": "Butthead/Sandman",
+			"author": "Butthead",
+			"description": "Jon Sandman Decal for Octane. Please remember to also equip the Octane: Sandman in Decals + the Octane: Sandman (Main Body) in Main Body Decals."
+		},
+    {
+			"id": 12233,
+			"name": "PhantomACE Decals",
+			"folder": "UncleSkeleton/PhantomACE",
+			"author": "Uncle Skeleton",
+			"description": "Created for PhantomACE and his brilliant subscribers."
 		},
     {
 			"id": 1898,
@@ -202,20 +223,6 @@
 			"folder": "Famiy/Balls/Psyonix",
 			"author": "Famiy",
 			"description": "This pack includes various balls with the Psyonix branding. Colors include: Cobalt, Crimson, Forest Green, Lime, Orange, Original, Pink, Purple, Saffron, Titanium White."
-		},
-		{
-			"id": 8888,
-			"name": "Jon Sandman",
-			"folder": "Butthead/Sandman",
-			"author": "Butthead",
-			"description": "Jon Sandman Decal for Octane. Please remember to also equip the Octane: Sandman in Decals + the Octane: Sandman (Main Body) in Main Body Decals."
-		},
-    {
-			"id": 12233,
-			"name": "PhantomACE Decals",
-			"folder": "UncleSkeleton/PhantomACE",
-			"author": "Uncle Skeleton",
-			"description": "Created for PhantomACE and his brilliant subscribers."
 		}
 	]
 }
