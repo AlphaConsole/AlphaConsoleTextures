@@ -1,0 +1,812 @@
+{
+	"id": 19188,
+	"name": "Banners",
+	"author": "Famiy",
+	"description": "Famiy Various Banners.",
+	"items": [
+		{
+			"id": 0,
+			"name": "Esports: Allegiance",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Allegiance.png"
+				}
+			]
+		},
+		{
+			"id": 1,
+			"name": "Esports: Ambition",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Ambition.png"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Esports: Ares",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Ares.png"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Esports: Chiefs",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Chiefs.png"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Esports: Cloud9",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Cloud9.png"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "Esports: Complexity",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Complexity.png"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "Esports: Counter Logic",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Counter Logic.png"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"name": "Esports: Dignitas",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Dignitas.png"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"name": "Esports: Endpoint",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Endpoint.png"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"name": "Esports: EnvyUs",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports EnvyUs.png"
+				}
+			]
+		},
+		{
+			"id": 10,
+			"name": "Esports: Evil Geniuses",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Evil Geniuses.png"
+				}
+			]
+		},
+		{
+			"id": 11,
+			"name": "Esports: exceL",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports exceL.png"
+				}
+			]
+		},
+		{
+			"id": 12,
+			"name": "Esports: Fibeon",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Fibeon.png"
+				}
+			]
+		},
+		{
+			"id": 13,
+			"name": "Esports: Flipside",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Flipside.png"
+				}
+			]
+		},
+		{
+			"id": 14,
+			"name": "Esports: FlyQuest",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports FlyQuest.png"
+				}
+			]
+		},
+		{
+			"id": 15,
+			"name": "Esports: Fnatic",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Fnatic.png"
+				}
+			]
+		},
+		{
+			"id": 16,
+			"name": "Esports: G2",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports G2.png"
+				}
+			]
+		},
+		{
+			"id": 17,
+			"name": "Esports: Gale Force",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Gale Force.png"
+				}
+			]
+		},
+		{
+			"id": 18,
+			"name": "Esports: Ghost Gaming",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Ghost Gaming.png"
+				}
+			]
+		},
+		{
+			"id": 19,
+			"name": "Esports: Hollywood Hammers",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Hollywood Hammers.png"
+				}
+			]
+		},
+		{
+			"id": 20,
+			"name": "Esports: Method",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Method.png"
+				}
+			]
+		},
+		{
+			"id": 21,
+			"name": "Esports: NRG",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports NRG.png"
+				}
+			]
+		},
+		{
+			"id": 22,
+			"name": "Esports: Out of Style",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Out of Style.png"
+				}
+			]
+		},
+		{
+			"id": 23,
+			"name": "Esports: PSG",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports PSG.png"
+				}
+			]
+		},
+		{
+			"id": 24,
+			"name": "Esports: Renault Sport Team Vitality",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Renault Sport Team Vitality.png"
+				}
+			]
+		},
+		{
+			"id": 25,
+			"name": "Esports: Renegades",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Renegades.png"
+				}
+			]
+		},
+		{
+			"id": 26,
+			"name": "Esports: Rogue",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Rogue.png"
+				}
+			]
+		},
+		{
+			"id": 27,
+			"name": "Esports: Servette Geneva",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Servette Geneva.png"
+				}
+			]
+		},
+		{
+			"id": 28,
+			"name": "Esports: SpaceStation",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports SpaceStation.png"
+				}
+			]
+		},
+		{
+			"id": 29,
+			"name": "Esports: Splyce",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Splyce.png"
+				}
+			]
+		},
+		{
+			"id": 30,
+			"name": "Esports: Team Secret",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Team Secret.png"
+				}
+			]
+		},
+		{
+			"id": 31,
+			"name": "Esports: The Juicy Kids",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports The Juicy Kids.png"
+				}
+			]
+		},
+		{
+			"id": 32,
+			"name": "Esports: Veritas",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Esports Veritas.png"
+				}
+			]
+		},
+		{
+			"id": 33,
+			"name": "National Argentina",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Argentina2.png"
+				}
+			]
+		},
+		{
+			"id": 34,
+			"name": "National Australia",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Australia2.png"
+				}
+			]
+		},
+		{
+			"id": 35,
+			"name": "National Belgium",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Belgium2.png"
+				}
+			]
+		},
+		{
+			"id": 36,
+			"name": "National Brazil",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Brazil2.png"
+				}
+			]
+		},
+		{
+			"id": 37,
+			"name": "National Costa Rica",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Costa2.png"
+				}
+			]
+		},
+		{
+			"id": 38,
+			"name": "National Croatia",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Croatia2.png"
+				}
+			]
+		},
+		{
+			"id": 39,
+			"name": "National Denmark",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Denmark2.png"
+				}
+			]
+		},
+		{
+			"id": 40,
+			"name": "National Egypt",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Egypt2.png"
+				}
+			]
+		},
+		{
+			"id": 41,
+			"name": "National England",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National England2.png"
+				}
+			]
+		},
+		{
+			"id": 42,
+			"name": "National France",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National France2.png"
+				}
+			]
+		},
+		{
+			"id": 43,
+			"name": "National Germany",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Germany2.png"
+				}
+			]
+		},
+		{
+			"id": 44,
+			"name": "National Iceland",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Iceland2.png"
+				}
+			]
+		},
+		{
+			"id": 45,
+			"name": "National Iran",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Iran2.png"
+				}
+			]
+		},
+		{
+			"id": 46,
+			"name": "National Mexico",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Mexico2.png"
+				}
+			]
+		},
+		{
+			"id": 47,
+			"name": "National Morocco",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Morocco2.png"
+				}
+			]
+		},
+		{
+			"id": 48,
+			"name": "National Nigeria",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Nigeria2.png"
+				}
+			]
+		},
+		{
+			"id": 49,
+			"name": "National Panama",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Panama2.png"
+				}
+			]
+		},
+		{
+			"id": 50,
+			"name": "National Peru",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Peru2.png"
+				}
+			]
+		},
+		{
+			"id": 51,
+			"name": "National Portugal",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Portugal2.png"
+				}
+			]
+		},
+		{
+			"id": 52,
+			"name": "National Russia",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Russia2.png"
+				}
+			]
+		},
+		{
+			"id": 53,
+			"name": "National Saudi Arabia",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Saudi Arabia2.png"
+				}
+			]
+		},
+		{
+			"id": 54,
+			"name": "National Serbia",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Serbia2.png"
+				}
+			]
+		},
+		{
+			"id": 55,
+			"name": "National South Korea",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National South Korea2.png"
+				}
+			]
+		},
+		{
+			"id": 56,
+			"name": "National Spain",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Spain2.png"
+				}
+			]
+		},
+		{
+			"id": 57,
+			"name": "National Sweden",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Sweden2.png"
+				}
+			]
+		},
+		{
+			"id": 58,
+			"name": "National Switzerland",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Switzerland2.png"
+				}
+			]
+		},
+		{
+			"id": 59,
+			"name": "National Tunisia",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Tunisia2.png"
+				}
+			]
+		},
+		{
+			"id": 60,
+			"name": "National Uruguay",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Uruguay2.png"
+				}
+			]
+		},
+		{
+			"id": 61,
+			"name": "Nintendo Switch",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Other Nintendo Switch.png"
+				}
+			]
+		},
+		{
+			"id": 62,
+			"name": "PlayStation 1",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Other PlayStation 1.png"
+				}
+			]
+		},
+		{
+			"id": 63,
+			"name": "PlayStation",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Other PlayStation.png"
+				}
+			]
+		},
+		{
+			"id": 64,
+			"name": "Steam",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Other Steam.png"
+				}
+			]
+		},
+		{
+			"id": 65,
+			"name": "Twitch",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Other Twitch.png"
+				}
+			]
+		},
+		{
+			"id": 66,
+			"name": "Xbox",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Other Xbox.png"
+				}
+			]
+		}
+	]
+}
