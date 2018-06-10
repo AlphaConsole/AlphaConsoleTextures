@@ -8,29 +8,16 @@
       "id": 0,
       "name": "Ice Charger: Hoonicorn",
       "slot": 1,
-      "item": 1723,
+      "item": 306,
       "parameters": [
         {
           "name": "Skin",
-          "image": "Hoonicorn.png",
-		  "animated": false,
-		  "frames":1,
-		  "framerate":1
-        }
-      ]
-    },
-	{
-      "id": 1,
-      "name": "Ice Charger: Hoonicorn",
-      "slot": -4,
-      "item": -1,
-      "parameters": [
+          "image": "Hoonicorn.png"          
+        },
         {
           "name": "Diffuse",
           "image": "HoonicornEngine.png",
-		  "animated": false,
-		  "frames":1,
-		  "framerate":1
+          "type": 2
         }
       ]
     }
