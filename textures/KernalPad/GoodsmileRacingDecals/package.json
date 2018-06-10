@@ -7,30 +7,22 @@
     {
       "id": 0,
       "name": "Octane: Goodsmile Racing",
-      "slot": -3,
-      "item": -1,
+      "slot": 1,
+      "item": 306,
       "parameters": [
+        {
+          "name": "Skin",
+          "image": "MainBodyOnly.png"          
+        },
         {
           "name": "Diffuse",
           "image": "Goodsmile.png",
-		  "animated": false,
-		  "frames":1,
-		  "framerate":1
-        }
-      ]
-    },
-	{
-      "id": 1,
-      "name": "Octane: Goodsmile Racing",
-      "slot": -4,
-      "item": -1,
-      "parameters": [
+          "type": 1
+        },
         {
           "name": "Diffuse",
           "image": "GoodsmileEngine.png",
-		  "animated": false,
-		  "frames":1,
-		  "framerate":1
+          "type": 2
         }
       ]
     }
