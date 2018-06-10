@@ -23,6 +23,22 @@
 	},
 	{
 		"id": 1,
+		"name": "Other Beachball",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Other Beachball.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Other Beachball Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 2,
 		"name": "Other Duodeka 12 Black",
 		"slot": -2,
 		"item": -1,
@@ -38,7 +54,7 @@
 		]
 	},
 	{
-		"id": 2,
+		"id": 3,
 		"name": "Other Duodeka 12 Blue",
 		"slot": -2,
 		"item": -1,
@@ -54,7 +70,7 @@
 		]
 	},
 	{
-		"id": 3,
+		"id": 4,
 		"name": "Other Duodeka 12 Red",
 		"slot": -2,
 		"item": -1,
@@ -70,7 +86,7 @@
 		]
 	},
 	{
-		"id": 4,
+		"id": 5,
 		"name": "Other RLCS",
 		"slot": -2,
 		"item": -1,
@@ -86,7 +102,7 @@
 		]
 	},
 	{
-		"id": 5,
+		"id": 6,
 		"name": "Other RocketLeague Blue",
 		"slot": -2,
 		"item": -1,
@@ -102,7 +118,7 @@
 		]
 	},
 	{
-		"id": 6,
+		"id": 7,
 		"name": "Other RocketLeague White",
 		"slot": -2,
 		"item": -1,
@@ -118,7 +134,7 @@
 		]
 	},
 	{
-		"id": 7,
+		"id": 8,
 		"name": "Other Tennis",
 		"slot": -2,
 		"item": -1,
