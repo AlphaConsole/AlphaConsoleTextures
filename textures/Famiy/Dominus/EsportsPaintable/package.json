@@ -6,7 +6,7 @@
 	"items": [
 		{
 			"id": 0,
-			"name": "Dominus Esports: Allegiance",
+			"name": "Dominus Esports: Allegiance (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -21,7 +21,7 @@
 		},
 		{
 			"id": 1,
-			"name": "Dominus Esports: Ares",
+			"name": "Dominus Esports: Ares (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -36,7 +36,7 @@
 		},
 		{
 			"id": 2,
-			"name": "Dominus Esports: Chiefs",
+			"name": "Dominus Esports: Chiefs (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -51,7 +51,7 @@
 		},
 		{
 			"id": 3,
-			"name": "Dominus Esports: Cloud 9",
+			"name": "Dominus Esports: Cloud 9 (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -66,7 +66,7 @@
 		},
 		{
 			"id": 4,
-			"name": "Dominus Esports: Complexity",
+			"name": "Dominus Esports: Complexity (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -81,7 +81,7 @@
 		},
 		{
 			"id": 5,
-			"name": "Dominus Esports: CLG",
+			"name": "Dominus Esports: CLG (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -96,7 +96,7 @@
 		},
 		{
 			"id": 6,
-			"name": "Dominus Esports: Endpoint",
+			"name": "Dominus Esports: Endpoint (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -111,7 +111,7 @@
 		},
 		{
 			"id": 7,
-			"name": "Dominus Esports: EnvyUs",
+			"name": "Dominus Esports: EnvyUs (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -126,7 +126,7 @@
 		},
 		{
 			"id": 8,
-			"name": "Dominus Esports: Evil Geniuses",
+			"name": "Dominus Esports: Evil Geniuses (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -141,7 +141,7 @@
 		},
 		{
 			"id": 9,
-			"name": "Dominus Esports: exceL",
+			"name": "Dominus Esports: exceL (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -156,7 +156,7 @@
 		},
 		{
 			"id": 10,
-			"name": "Dominus Esports: Flipside",
+			"name": "Dominus Esports: Flipside (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -171,7 +171,7 @@
 		},
 		{
 			"id": 11,
-			"name": "Dominus Esports: Fnatic",
+			"name": "Dominus Esports: Fnatic (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -186,7 +186,7 @@
 		},
 		{
 			"id": 12,
-			"name": "Dominus Esports: G2",
+			"name": "Dominus Esports: G2 (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -201,7 +201,7 @@
 		},
 		{
 			"id": 13,
-			"name": "Dominus Esports: Method",
+			"name": "Dominus Esports: Method (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -216,7 +216,7 @@
 		},
 		{
 			"id": 14,
-			"name": "Dominus Esports: NRG",
+			"name": "Dominus Esports: NRG (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
@@ -231,7 +231,7 @@
 		},
 		{
 			"id": 15,
-			"name": "Dominus Esports: PSG",
+			"name": "Dominus Esports: PSG (Paintable)",
 			"slot": 1,
 			"item": 1773,
 			"parameters": [
