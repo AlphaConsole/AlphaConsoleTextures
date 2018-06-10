@@ -22,13 +22,6 @@
 			"description": "A pack of goal explosions.<br>Includes 3 styles: Banana Dance, Rizzo, and Think Blast."
 		},
 		{
-			"id": 3,
-			"name": "Util",
-			"folder": "AC/MainBodyUtilTextures",
-			"author": "Carsillas",
-			"description": "This decal is meant to be used with main body textures to allow the color to show through."
-		},
-		{
 			"id": 4,
 			"name": "AlphaConsole Snowflake",
 			"folder": "AC/Snowflake",
