@@ -6,101 +6,101 @@
   "items": [
 		{
 			"id": 0,
-			"name": "Dominus Esports: Allegiance",
-			"slot": -3,
-			"item": -1,
+			"name": "Dominus Esports: Allegiance (Colored)",
+			"slot": 1,
+			"item": 504,
 			"parameters": [
 				{
 					"name": "Diffuse",
 					"image": "DominusAllegiance.png",
-					"animated": false,
-					"frames": 1,
-					"framerate": 1
+          "type": 1
+				},
+        {
+					"name": "Skin",
+					"image": "MainBodyOnly.png"
 				}
 			]
 		},
 		{
 			"id": 1,
-			"name": "Dominus Esports: Ares",
-			"slot": -3,
-			"item": -1,
+			"name": "Dominus Esports: Ares (Colored)",
+			"slot": 1,
+			"item": 504,
 			"parameters": [
 				{
 					"name": "Diffuse",
 					"image": "DominusAres.png",
-					"animated": false,
-					"frames": 1,
-					"framerate": 1
+          "type": 1
+				},
+        {
+					"name": "Skin",
+					"image": "MainBodyOnly.png"
 				}
 			]
 		},
 		{
 			"id": 2,
-			"name": "Dominus Esports: Chiefs",
-			"slot": -3,
-			"item": -1,
+			"name": "Dominus Esports: Chiefs (Colored)",
+			"slot": 1,
+			"item": 504,
 			"parameters": [
 				{
 					"name": "Diffuse",
 					"image": "DominusChiefs.png",
-					"animated": false,
-					"frames": 1,
-					"framerate": 1
+          "type": 1
+				},
+        {
+					"name": "Skin",
+					"image": "MainBodyOnly.png"
 				}
 			]
 		},
 		{
 			"id": 3,
-			"name": "Dominus Esports: Cloud 9",
-			"slot": -3,
-			"item": -1,
+			"name": "Dominus Esports: Cloud 9 (Colored)",
+			"slot": 1,
+			"item": 504,
 			"parameters": [
 				{
 					"name": "Diffuse",
 					"image": "DominusCloud9.png",
-					"animated": false,
-					"frames": 1,
-					"framerate": 1
+          "type": 1
+				},
+        {
+					"name": "Skin",
+					"image": "MainBodyOnly.png"
 				}
 			]
 		},
 		{
 			"id": 4,
-			"name": "Dominus Esports: Complexity",
-			"slot": -3,
-			"item": -1,
+			"name": "Dominus Esports: Complexity (Colored)",
+			"slot": 1,
+			"item": 504,
 			"parameters": [
 				{
 					"name": "Diffuse",
 					"image": "DominusComplexity.png",
-					"animated": false,
-					"frames": 1,
-					"framerate": 1
+          "type": 1
+				},
+        {
+					"name": "Skin",
+					"image": "MainBodyOnly.png"
 				}
 			]
 		},
 		{
 			"id": 5,
-			"name": "Dominus Esports: Counter Logic",
-			"slot": -3,
-			"item": -1,
-			"parameters": [
-				{
-					"name": "Diffuse",
-					"image": "DominusCounterLogic.png",
-					"animated": false,
-					"frames": 1,
-					"framerate": 1
-				}
-			]
-		},
-		{
-			"id": 6,
-			"name": "Dominus: Main Body Only",
+			"name": "Dominus Esports: Counter Logic (Colored)",
 			"slot": 1,
 			"item": 504,
 			"parameters": [
 				{
+					"name": "Diffuse",
+					"image": "DominusCounterLogic.png",
+          "type": 1
+				},
+        {
 					"name": "Skin",
 					"image": "MainBodyOnly.png"
 				}
