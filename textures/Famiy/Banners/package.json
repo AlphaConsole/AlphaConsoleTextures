@@ -807,6 +807,42 @@
 					"image": "Other Xbox.png"
 				}
 			]
+		},
+		{
+			"id": 67,
+			"name": "National Italy",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Italy.png"
+				}
+			]
+		},
+		{
+			"id": 68,
+			"name": "National Netherlands",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National Netherlands.png"
+				}
+			]
+		},
+		{
+			"id": 69,
+			"name": "National USA",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "National USA.png"
+				}
+			]
 		}
 	]
 }
