@@ -738,7 +738,7 @@
 		},
 		{
 			"id": 61,
-			"name": "Nintendo Switch",
+			"name": "Other: Nintendo Switch",
 			"slot": 16,
 			"item": 2756,
 			"parameters": [
@@ -750,7 +750,7 @@
 		},
 		{
 			"id": 62,
-			"name": "PlayStation 1",
+			"name": "Other: PlayStation 1",
 			"slot": 16,
 			"item": 2756,
 			"parameters": [
@@ -762,7 +762,7 @@
 		},
 		{
 			"id": 63,
-			"name": "PlayStation",
+			"name": "Other: PlayStation 4",
 			"slot": 16,
 			"item": 2756,
 			"parameters": [
@@ -774,7 +774,7 @@
 		},
 		{
 			"id": 64,
-			"name": "Steam",
+			"name": "Other: Steam",
 			"slot": 16,
 			"item": 2756,
 			"parameters": [
@@ -786,7 +786,7 @@
 		},
 		{
 			"id": 65,
-			"name": "Twitch",
+			"name": "Other: Twitch",
 			"slot": 16,
 			"item": 2756,
 			"parameters": [
@@ -798,7 +798,7 @@
 		},
 		{
 			"id": 66,
-			"name": "Xbox",
+			"name": "Other: Xbox",
 			"slot": 16,
 			"item": 2756,
 			"parameters": [
@@ -841,6 +841,18 @@
 				{
 					"name": "TopLayer",
 					"image": "National USA.png"
+				}
+			]
+		},
+		{
+			"id": 70,
+			"name": "Other: Team Rocket",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "teamrocket.png"
 				}
 			]
 		}
