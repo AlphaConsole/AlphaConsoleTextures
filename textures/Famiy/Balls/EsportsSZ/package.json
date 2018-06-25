@@ -2,7 +2,7 @@
   "id": 1903,
   "name": "Balls Esports S-Z",
   "author": "Famiy",
-  "description": "This pack includes balls for: 5 Esports teams, including Servette Geneva, SpaceStation, Splyce, Team Secret, Veritas.",
+  "description": "This pack includes balls for 6 Esports teams: Servette Geneva, SpaceStation, Splyce, Team Secret, Triple Trouble, Veritas.",
   "items": [
 	
 	{
@@ -119,7 +119,7 @@
 	},
 	{
 		"id": 7,
-		"name": "Esports Team Secret Grey",
+		"name": "Esports Team Secret",
 		"slot": -2,
 		"item": -1,
 		"parameters": [
@@ -135,7 +135,7 @@
 	},
 	{
 		"id": 8,
-		"name": "Esports Veritas Grey",
+		"name": "Esports Veritas",
 		"slot": -2,
 		"item": -1,
 		"parameters": [
@@ -146,6 +146,22 @@
 			{
 				"name": "Normal",
 				"image": "Esports Veritas Grey Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Esports Triple Trouble",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Esports Triple Trouble.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Esports Triple Trouble Bumpmap.png"
 			}
 		]
 	}
