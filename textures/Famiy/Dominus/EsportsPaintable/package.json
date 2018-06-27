@@ -243,6 +243,36 @@
 					"framerate": 1
 				}
 			]
+		},
+		{
+			"id": 16,
+			"name": "Dominus Esports: Dignitas (Paintable)",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomDig.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 17,
+			"name": "Dominus Esports: Renault Vitality (Paintable)",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "DomRenault.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
 		}
 	]
 }
