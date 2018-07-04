@@ -1,0 +1,265 @@
+{
+	"id": 188888,
+	"name": "'16 Batmobile skinz",
+	"author": "HurricaneModding",
+	"description": "'16 Batmobile skins. Camo, thin/thick details and more. Recommend to use Glow-FX for the detail styles.",
+	"items": [
+		{
+			"id": 0,
+			"name": "'16 Batmobile: Thin Details",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "ThinDetailsRGB.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_BodyMasks",
+					"image": "BodyMasks.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 1,
+			"name": "'16 Batmobile: Thick Details",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "ThickDetailsRGB.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_BodyMasks",
+					"image": "BodyMasks.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "'16 Batmobile: Thin Details (Inverted)",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "ThinDetailsRGBinverted.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_BodyMasks",
+					"image": "BodyMasks.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "'16 Batmobile: Thick Details (Inverted)",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "ThickDetailsRGBinverted.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_BodyMasks",
+					"image": "BodyMasks.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "'16 Batmobile: Thin Details (White Car)",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "ThinDetailsRGBwhite.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_BodyMasks",
+					"image": "BodyMasks.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_Body_D",
+					"image": "mainbodywhite.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "'16 Batmobile: Thick Details (White Car)",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "ThickDetailsRGBwhite.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_BodyMasks",
+					"image": "BodyMasks.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_Body_D",
+					"image": "mainbodywhite2.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "'16 Batmobile: Classic Camo",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "camoRGB.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_Body_D",
+					"image": "mainbodycamo.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 7,
+			"name": "'16 Batmobile: Camo (Paintable)",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "camopaintableRGB.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_Body_D",
+					"image": "mainbodycamopaintable.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 8,
+			"name": "'16 Batmobile: Mosaik",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "MosaikRGB.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_BodyMasks",
+					"image": "BodyMasks.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"name": "'16 Batmobile: Monarch",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "MonarchRGB.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_BodyMasks",
+					"image": "BodyMasks.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 10,
+			"name": "'16 Batmobile: Digital Camo",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "digitalcamoRGB.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_Body_D",
+					"image": "mainbodydigitalcamo.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 11,
+			"name": "'16 Batmobile: Thin Details (Metal Pearl)",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "ThinDetailsRGBmetal.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_BodyMasks",
+					"image": "BodyMasks.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 12,
+			"name": "'16 Batmobile: Thick Details (Metal Pearl)",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "ThickDetailsRGBmetal.png",
+					"type": 1
+				},
+				{
+					"name": "DarkCar_BodyMasks",
+					"image": "BodyMasks.png",
+					"type": 1
+				}
+			]
+		},
+		{
+			"id": 13,
+			"name": "'16 Batmobile: Darkmobile",
+			"slot": 1,
+			"item": -1,
+			"textures": [
+				{
+					"name": "DarkCar_RGB",
+					"image": "Darkmobile.png",
+					"type": 1
+				}
+			]
+		}
+	]
+}
