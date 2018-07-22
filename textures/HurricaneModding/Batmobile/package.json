@@ -166,7 +166,7 @@
 			"textures": [
 				{
 					"name": "DarkCar_RGB",
-					"image": "MosaikRGB.png",
+					"image": "mosaikRGB.png",
 					"type": 1
 				},
 				{
@@ -184,7 +184,7 @@
 			"textures": [
 				{
 					"name": "DarkCar_RGB",
-					"image": "MonarchRGB.png",
+					"image": "monarchRGB.png",
 					"type": 1
 				},
 				{
