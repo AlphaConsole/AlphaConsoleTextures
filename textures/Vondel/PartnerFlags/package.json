@@ -123,6 +123,18 @@
 				"image": "ForzenFlag.png"
 			}
 		]
+	},
+	{
+		"id": 10,
+		"name": "vVv Gaming",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "vVvGamingFlag.png"
+			}
+		]
 	}
 ]
 }
