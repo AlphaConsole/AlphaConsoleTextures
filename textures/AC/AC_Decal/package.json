@@ -1,0 +1,25 @@
+{
+  "id": 4564565,
+  "name": "AC",
+  "author": "Haddi",
+  "description": "AC",
+  "items": [
+    {
+      "id": 0,
+      "name": "Octane: AlphaConsole",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "decal.png"
+        },
+        {
+          "name": "Diffuse",
+          "image": "engine.png",
+          "type": 2
+        }
+      ]
+    }
+  ]
+}

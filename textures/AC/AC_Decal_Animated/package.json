@@ -1,0 +1,23 @@
+{
+  "id": 1684,
+  "name": "AlphaConsole Animated Decal",
+  "author": "Carsillas",
+  "description": "AC",
+  "items": [
+    {
+      "id": 0,
+      "name": "Octane: AC",
+      "slot": 1,
+      "item": 306,
+      "parameters": [
+        {
+          "name": "Skin",
+          "image": "ac",
+		  "animated": true,
+		  "frames": 64,
+		  "framerate": 20
+        }
+      ]
+    }
+  ]
+}

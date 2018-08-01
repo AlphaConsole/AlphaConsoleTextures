@@ -36,6 +36,21 @@
 			"description": "An animated AlphaConsole Terminal logo wheel mod."
 		},
 		{
+			"id": 4564565,
+			"name": "AlphaConsole Octane Decal",
+			"folder": "AC/AC_Decal",
+			"author": "Haddi",
+			"description": "AlphaConsole themed decal for the Octane." 
+		},
+		{
+			"id": 1684,
+			"name": "AlphaConsole Animated Decal",
+			"folder": "AC/AC_Decal_Animated",
+			"author": "Carsillas",
+			"description": "Animated AlphaConsole themed decal for the Octane.",
+			"previewExtension": "gif"
+		},
+		{
 			"id": 6,
 			"name": "Antennas",
 			"folder": "Famiy/Antennas",
