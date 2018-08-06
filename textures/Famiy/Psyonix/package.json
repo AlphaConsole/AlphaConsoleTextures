@@ -1,0 +1,83 @@
+{
+	"id": 1909,
+	"name": "Psyonix Decals",
+	"author": "Famiy",
+	"description": "This pack includes Psyonix decals for Breakout, Dominus, Takumi, ZSR and Type-S",
+	"items": [
+		{
+			"id": 0,
+			"name": "Psyonix Breakout",
+			"slot": 1,
+			"item": 1633,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "PsyBreak.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 1,
+			"name": "Psyonix Dominus",
+			"slot": 1,
+			"item": 1773,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "PsyDom.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Psyonix Takumi",
+			"slot": 1,
+			"item": 1770,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "PsyTak.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Psyonix ZSR",
+			"slot": 1,
+			"item": 1629,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "PsyZSR.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Psyonix Type-S",
+			"slot": 1,
+			"item": 2021,
+			"parameters": [
+				{
+					"name": "Skin",
+					"image": "PsyType.png",
+					"animated": false,
+					"frames": 1,
+					"framerate": 1
+				}
+			]
+		}
+	]
+}

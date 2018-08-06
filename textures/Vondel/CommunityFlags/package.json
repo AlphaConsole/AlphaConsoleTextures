@@ -1,0 +1,140 @@
+{
+  "id": 99,
+  "name": "Rocket League Community Flags",
+  "author": "Vondel",
+  "description": "A pack of various Rocket League community flags. Includes 8 different styles.",
+  "items": [
+	{
+		"id": 0,
+		"name": "JHZER",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "JHZERFlag.png"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "NeatMike",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "NeatMikeFlag.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Phant0mAce",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "Phant0mAceFlag.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Rizzo",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "RizzoFlag.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Rocket Dailies",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "RocketDailiesFlag.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Sizz",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "SizzFlag.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Squishy Muffinz",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "SquishyMuffinzFlag.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "TheLlamaSir",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "TheLlamaSirFlag.png"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "AlphaConsole",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "ACFlag.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Rokt Leeg",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "RoktLeegFlag.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Kronovi",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "KronoviFlag.png"
+			}
+		]
+	}
+]
+}

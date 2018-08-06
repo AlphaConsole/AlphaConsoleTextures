@@ -1,0 +1,140 @@
+{
+  "id": 98,
+  "name": "AlphaConsole Partner Flags",
+  "author": "Vondel",
+  "description": "A pack of various AlphaConsole partner flags. Includes 9 different styles.",
+  "items": [
+	{
+		"id": 0,
+		"name": "Rocket League World",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "RocketLeagueWorldFlag.png"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "Rocket League Mods",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "RocketLeagueModsFlag.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "RLTracker",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "RLTrackerFlag.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "RLCD",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "RLCDFlag.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Rocket League 6Mans",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "RL6MansFlag.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Pulse",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "PulseFlag.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "GamePlanet",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "GamePlanetFlag.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "College Carball Association",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "CollegeCarballAssociationFlag.png"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Boost Legacy",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "BoostLegacyFlag.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Forzen",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "ForzenFlag.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "vVv Gaming",
+		"slot": 4,
+		"item": 1454,
+		"parameters": [
+			{
+				"name": "TextureDiffuse",
+				"image": "vVvGamingFlag.png"
+			}
+		]
+	}
+]
+}

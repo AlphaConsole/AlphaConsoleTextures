@@ -36,6 +36,21 @@
 			"description": "An animated AlphaConsole Terminal logo wheel mod."
 		},
 		{
+			"id": 4564565,
+			"name": "AlphaConsole Octane Decal",
+			"folder": "AC/AC_Decal",
+			"author": "Haddi",
+			"description": "AlphaConsole themed decal for the Octane." 
+		},
+		{
+			"id": 1684,
+			"name": "AlphaConsole Animated",
+			"folder": "AC/AC_Decal_Animated",
+			"author": "Carsillas",
+			"description": "Animated AlphaConsole themed decal for the Octane.",
+			"previewExtension": "gif"
+		},
+		{
 			"id": 6,
 			"name": "Antennas",
 			"folder": "Famiy/Antennas",
@@ -120,25 +135,25 @@
 			"description": "A Hyper Beast styled decal for the Octane."
 		},
 		{
-      "id": 19,
-      "name": "SubParButInHD Decal",
-      "folder": "DanMBSubPar",
-      "author": "DanMB",
-      "description": "A SubParButInHD Octane decal"
-    },
-    {
+			"id": 19,
+			"name": "SubParButInHD Decal",
+			"folder": "DanMBSubPar",
+			"author": "DanMB",
+			"description": "A SubParButInHD Octane decal"
+		},
+		{
 			"id": 1908,
 			"name": "Dominus Esports (Paintable)",
 			"folder": "Famiy/Dominus/EsportsPaintable",
 			"author": "Famiy",
 			"description": "<span>This pack includes paintable Esports decals for Dominus. You are able to change the primary and secondary colors in your garage. For more paint options (i.e. black/white primary) you can also change those two colors through Alpha Console. For most of my decals your are also able to change a third color by picking a color in the dropdown menu to the right of the 'Decal' type.</span><div style='width: 100%; height: 0px; position: relative; padding-bottom: 56.167%;'><iframe src='https://www.youtube.com/embed/mo1c4uJu7Ao' frameborder='0' width='100%' height='100%' allowfullscreen style='width: 100%; height: 100%; position: absolute;'></iframe></div>"
 		},
-    {
+		{
 			"id": 1907,
 			"name": "Dominus Esports (Colored)",
 			"folder": "Famiy/Dominus/EsportsFullColor",
 			"author": "Famiy",
-      "description": "<span>This pack includes 6 full color Esports decals for Dominus.</span><div style='width: 100%; height: 0px; position: relative; padding-bottom: 56.167%;'><iframe src='https://www.youtube.com/embed/J8LzsnkOEbk' frameborder='0' width='100%' height='100%' allowfullscreen style='width: 100%; height: 100%; position: absolute;'></iframe></div>"
+			"description": "<span>This pack includes 6 full color Esports decals for Dominus.</span><div style='width: 100%; height: 0px; position: relative; padding-bottom: 56.167%;'><iframe src='https://www.youtube.com/embed/J8LzsnkOEbk' frameborder='0' width='100%' height='100%' allowfullscreen style='width: 100%; height: 100%; position: absolute;'></iframe></div>"
 		},
 		{
 			"id": 8888,
@@ -147,89 +162,119 @@
 			"author": "Butthead",
 			"description": "Jon Sandman Decal for Octane. Please remember to also equip the Octane: Sandman in Decals + the Octane: Sandman (Main Body) in Main Body Decals."
 		},
-    {
+		{
 			"id": 12233,
 			"name": "PhantomACE Decals",
 			"folder": "UncleSkeleton/PhantomACE",
 			"author": "Uncle Skeleton",
 			"description": "Created for PhantomACE and his brilliant subscribers."
 		},
-    {
+		{
 			"id": 188888,
 			"name": "'16 Batmobile skinz",
 			"folder": "HurricaneModding/Batmobile",
 			"author": "HurricaneModding",
 			"description": "'16 Batmobile skins. Camo, thin/thick details and more. Recommend to use Glow-FX for the detail styles."
 		},
-    {
+		{
 			"id": 1898,
 			"name": "Balls Esports A-C",
 			"folder": "Famiy/Balls/EsportsAC",
 			"author": "Famiy",
-			"description": "This pack includes balls for: 7 Esports teams, including Allegiance, Ambition, Ares, Chiefs, Cloud 9, Complexity, Counter Logic."
+			"description": "This pack includes balls for: 7 Esports teams, including Allegiance, Ambition, Ares, Chiefs, Cloud 9, Complexity, Counter Logic.",
+			"previewExtension": "gif"
 		},
 		{
 			"id": 1899,
 			"name": "Balls Esports D-E",
 			"folder": "Famiy/Balls/EsportsDE",
 			"author": "Famiy",
-			"description": "This pack includes balls for: 5 Esports teams, including Dignitas, Endpoint, EnvyUs, Evil Geniuses, exceL"
+			"description": "This pack includes balls for: 5 Esports teams, including Dignitas, Endpoint, EnvyUs, Evil Geniuses, exceL",
+			"previewExtension": "gif"
 		},
 		{
 			"id": 1900,
 			"name": "Balls Esports F",
 			"folder": "Famiy/Balls/EsportsF",
 			"author": "Famiy",
-			"description": "This pack includes balls for: 4 Esports teams, including Fibeon, Flipside, FlyQuest, Fnatic."
+			"description": "This pack includes balls for: 4 Esports teams, including Fibeon, Flipside, FlyQuest, Fnatic.",
+			"previewExtension": "gif"
 		},
 		{
 			"id": 1901,
 			"name": "Balls Esports G-M",
 			"folder": "Famiy/Balls/EsportsGM",
 			"author": "Famiy",
-			"description": "This pack includes balls for: 5 Esports teams, including G2, GaleForce, Ghost, Hammers, Method."
+			"description": "This pack includes balls for: 5 Esports teams, including G2, GaleForce, Ghost, Hammers, Method.",
+			"previewExtension": "gif"
 		},
 		{
 			"id": 1902,
 			"name": "Balls Esports N-R",
 			"folder": "Famiy/Balls/EsportsNR",
 			"author": "Famiy",
-			"description": "This pack includes balls for: 6 Esports teams, including NorthernGaming, NRG, PSG, Renault Vitality, Renegades, Rogue."
+			"description": "This pack includes balls for: 6 Esports teams, including NorthernGaming, NRG, PSG, Renault Vitality, Renegades, Rogue.",
+			"previewExtension": "gif"
 		},
 		{
 			"id": 1903,
 			"name": "Balls Esports S-Z",
 			"folder": "Famiy/Balls/EsportsSZ",
 			"author": "Famiy",
-			"description": "This pack includes balls for 6 Esports teams: Servette Geneva, SpaceStation, Splyce, Team Secret, Triple Trouble, Veritas."
+			"description": "This pack includes balls for 6 Esports teams: Servette Geneva, SpaceStation, Splyce, Team Secret, Triple Trouble, Veritas.",
+			"previewExtension": "gif"
 		},
 		{
 			"id": 1904,
 			"name": "Balls National",
 			"folder": "Famiy/Balls/National",
 			"author": "Famiy",
-			"description": "This pack includes balls for: 7 Nations, including Argentina, Belgium, England, France, Germany, Russia, Spain."
+			"description": "This pack includes balls for: 7 Nations, including Argentina, Belgium, England, France, Germany, Russia, Spain.",
+			"previewExtension": "gif"
 		},
 		{
 			"id": 1905,
 			"name": "Balls Other",
 			"folder": "Famiy/Balls/Other",
 			"author": "Famiy",
-			"description": "This pack includes balls for: 7 themes, including Baseball, Duodeka 12, RLCS, Rocket League, Tennis."
+			"description": "This pack includes balls for: 7 themes, including Baseball, Duodeka 12, RLCS, Rocket League, Tennis.",
+			"previewExtension": "gif"
 		},
 		{
 			"id": 1906,
 			"name": "Balls Psyonix",
 			"folder": "Famiy/Balls/Psyonix",
 			"author": "Famiy",
-			"description": "This pack includes various balls with the Psyonix branding. Colors include: Cobalt, Crimson, Forest Green, Lime, Orange, Original, Pink, Purple, Saffron, Titanium White."
+			"description": "This pack includes various balls with the Psyonix branding. Colors include: Cobalt, Crimson, Forest Green, Lime, Orange, Original, Pink, Purple, Saffron, Titanium White.",
+			"previewExtension": "gif"
+		},		
+		{
+			"id": 1909,
+			"name": "Psyonix Decals",
+			"folder": "Famiy/Psyonix",
+			"author": "Famiy",
+			"description": "This pack includes Psyonix decals for Breakout, Dominus, Takumi, ZSR and Type-S."
 		},
 		{
 			"id": 19188,
 			"name": "Banners",
 			"folder": "Famiy/Banners",
 			"author": "Famiy",
-      "description": "<div style='width: 100%; height: 0px; position: relative; padding-bottom: 56.167%;'><iframe src='https://www.youtube.com/embed/7exlg4e0fX0' frameborder='0' width='100%' height='100%' allowfullscreen style='width: 100%; height: 100%; position: absolute;'></iframe></div>" 
+			"description": "<div style='width: 100%; height: 0px; position: relative; padding-bottom: 56.167%;'><iframe src='https://www.youtube.com/embed/7exlg4e0fX0' frameborder='0' width='100%' height='100%' allowfullscreen style='width: 100%; height: 100%; position: absolute;'></iframe></div>" 
+		},
+		{
+			"id": 98,
+			"name": "AlphaConsole Partner Flags",
+			"folder": "Vondel/PartnerFlags",
+			"author": "Vondel",
+			"description": "A pack of various AlphaConsole partner flags. Includes 9 different styles." 
+		},
+		{
+			"id": 99,
+			"name": "Rocket League Community Flags",
+			"folder": "Vondel/CommunityFlags",
+			"author": "Vondel",
+			"description": "A pack of various Rocket League community flags. Includes 8 different styles." 
 		}
 	]
 }
