@@ -102,22 +102,6 @@
 		]
 	},
 	{
-		"id": 6,
-		"name": "Esports EnvyUs Grey",
-		"slot": -2,
-		"item": -1,
-		"parameters": [
-			{
-				"name": "Diffuse",
-				"image": "Esports EnvyUs Grey.png"
-			},
-			{
-				"name": "Normal",
-				"image": "Esports EnvyUs Grey Bumpmap.png"
-			}
-		]
-	},
-	{
 		"id": 7,
 		"name": "Esports Evil Geniuses Blue",
 		"slot": -2,
