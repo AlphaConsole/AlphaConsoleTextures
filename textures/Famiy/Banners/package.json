@@ -867,6 +867,30 @@
 					"image": "Esports Triple Trouble.png"
 				}
 			]
+		},
+		{
+			"id": 72,
+			"name": "Other Bot Orange",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Bot Orange.png"				
+				}
+			]
+		},
+		{
+			"id": 73,
+			"name": "Other Bot Blue",
+			"slot": 16,
+			"item": 2756,
+			"parameters": [
+				{
+					"name": "TopLayer",
+					"image": "Bot Blue.png"				
+				}
+			]
 		}
 	]
 }
