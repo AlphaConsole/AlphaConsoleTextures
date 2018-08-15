@@ -234,10 +234,10 @@
 		},
 		{
 			"id": 1905,
-			"name": "Balls Other",
+			"name": "Balls Other v1",
 			"folder": "Famiy/Balls/Other",
 			"author": "Famiy",
-			"description": "This pack includes balls for: 7 themes, including Baseball, Duodeka 12, RLCS, Rocket League, Tennis.",
+			"description": "This pack includes balls for 7 themes: Baseball, Beachball, Duodeka 12, RLCS, Rocket League, Tennis.",
 			"previewExtension": "gif"
 		},
 		{
@@ -275,6 +275,12 @@
 			"folder": "Vondel/CommunityFlags",
 			"author": "Vondel",
 			"description": "A pack of various Rocket League community flags. Includes 8 different styles." 
-		}
+		},
+    {
+      "id": 1910,
+      "name": "Balls Other v2",
+      "author": "Famiy",
+      "description": "This pack includes ten balls. Namely MonoKromo, xQz, Doppler, Lympyo, Track66, Premiero, Jogo, 2xx6, Vendetta.",
+    }
 	]
 }

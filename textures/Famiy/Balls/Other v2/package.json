@@ -1,151 +1,167 @@
 {
-  "id": 1905,
-  "name": "Balls Other v1",
+  "id": 1910,
+  "name": "Balls Other v2",
   "author": "Famiy",
-  "description": "This pack includes balls for 7 themes: Baseball, Beachball, Duodeka 12, RLCS, Rocket League, Tennis.",
+  "description": "This pack includes ten balls. Namely MonoKromo, xQz, Doppler, Lympyo, Track66, Premiero, Jogo, 2xx6, Vendetta.",
   "items": [
 	
 	{
 		"id": 0,
-		"name": "Other Baseball",
+		"name": "Other MonoKromo",
 		"slot": -2,
 		"item": -1,
 		"parameters": [
 			{
 				"name": "Diffuse",
-				"image": "Other Baseball.png"
+				"image": "MonoKromo.png"
 			},
 			{
 				"name": "Normal",
-				"image": "Other Baseball Bumpmap.png"
+				"image": "MonoKromo Bumpmap.png"
 			}
 		]
 	},
 	{
 		"id": 1,
-		"name": "Other Beachball",
+		"name": "Other xQz",
 		"slot": -2,
 		"item": -1,
 		"parameters": [
 			{
 				"name": "Diffuse",
-				"image": "Other Beachball.png"
+				"image": "xQz.png"
 			},
 			{
 				"name": "Normal",
-				"image": "Other Beachball Bumpmap.png"
+				"image": "xQz Bumpmap.png"
 			}
 		]
 	},
 	{
 		"id": 2,
-		"name": "Other Duodeka 12 Black",
+		"name": "Other Doppler",
 		"slot": -2,
 		"item": -1,
 		"parameters": [
 			{
 				"name": "Diffuse",
-				"image": "Other Duodeka 12 Black.png"
+				"image": "Doppler.png"
 			},
 			{
 				"name": "Normal",
-				"image": "Other Duodeka 12 Black Bumpmap.png"
+				"image": "Doppler Bumpmap.png"
 			}
 		]
 	},
 	{
 		"id": 3,
-		"name": "Other Duodeka 12 Blue",
+		"name": "Other Lympyo",
 		"slot": -2,
 		"item": -1,
 		"parameters": [
 			{
 				"name": "Diffuse",
-				"image": "Other Duodeka 12 Blue.png"
+				"image": "Lympyo.png"
 			},
 			{
 				"name": "Normal",
-				"image": "Other Duodeka 12 Blue Bumpmap.png"
+				"image": "Lympyo Bumpmap.png"
 			}
 		]
 	},
 	{
 		"id": 4,
-		"name": "Other Duodeka 12 Red",
+		"name": "Other Track66",
 		"slot": -2,
 		"item": -1,
 		"parameters": [
 			{
 				"name": "Diffuse",
-				"image": "Other Duodeka 12 Red.png"
+				"image": "Track66.png"
 			},
 			{
 				"name": "Normal",
-				"image": "Other Duodeka 12 Red Bumpmap.png"
+				"image": "Track66 Bumpmap.png"
 			}
 		]
 	},
 	{
 		"id": 5,
-		"name": "Other RLCS",
+		"name": "Other Premiero",
 		"slot": -2,
 		"item": -1,
 		"parameters": [
 			{
 				"name": "Diffuse",
-				"image": "Other RLCS.png"
+				"image": "Premiero.png"
 			},
 			{
 				"name": "Normal",
-				"image": "Other RLCS Bumpmap.png"
+				"image": "Premiero Bumpmap.png"
 			}
 		]
 	},
 	{
 		"id": 6,
-		"name": "Other RocketLeague Blue",
+		"name": "Other Jogo",
 		"slot": -2,
 		"item": -1,
 		"parameters": [
 			{
 				"name": "Diffuse",
-				"image": "Other RocketLeague Blue.png"
+				"image": "Jogo.png"
 			},
 			{
 				"name": "Normal",
-				"image": "Other RocketLeague Blue Bumpmap.png"
+				"image": "Jogo Bumpmap.png"
 			}
 		]
 	},
 	{
 		"id": 7,
-		"name": "Other RocketLeague White",
+		"name": "Other 2xx6",
 		"slot": -2,
 		"item": -1,
 		"parameters": [
 			{
 				"name": "Diffuse",
-				"image": "Other RocketLeague White.png"
+				"image": "2xx6.png"
 			},
 			{
 				"name": "Normal",
-				"image": "Other RocketLeague White Bumpmap.png"
+				"image": "2xx6 Bumpmap.png"
 			}
 		]
 	},
 	{
 		"id": 8,
-		"name": "Other Tennis",
+		"name": "Other Vendetta Light",
 		"slot": -2,
 		"item": -1,
 		"parameters": [
 			{
 				"name": "Diffuse",
-				"image": "Other Tennis.png"
+				"image": "Vendetta Light.png"
 			},
 			{
 				"name": "Normal",
-				"image": "Other Tennis Bumpmap.png"
+				"image": "Vendetta Bumpmap.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Other Vendetta Dark",
+		"slot": -2,
+		"item": -1,
+		"parameters": [
+			{
+				"name": "Diffuse",
+				"image": "Vendetta Dark.png"
+			},
+			{
+				"name": "Normal",
+				"image": "Vendetta Bumpmap.png"
 			}
 		]
 	}
